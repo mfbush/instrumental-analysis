@@ -8,7 +8,7 @@ This course introduces students to modern instrumental methods of chemical analy
 4. Compare and contrast different measurement approaches for specific analytical situations. Select a measurement approach to guide a decision in the context of biomedical research and medical diagnostics.
 ## Topics
 ### Topics Assessed During Exam #1
-- Defining Analytical Requirements
+- [Defining Analytical Requirements](/docs/defining-analytical-requirements.md)
 - Beer's Law, Signal, and Noise
 - Analog and Digital Data
 - External Calibration
