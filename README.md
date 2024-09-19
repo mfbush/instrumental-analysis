@@ -9,9 +9,8 @@ This course introduces students to modern instrumental methods of chemical analy
 ## Topics
 ### Topics Assessed During Exam #1
 - [Introduction](/docs/introduction.md) and [Defining Analytical Requirements](/docs/defining-analytical-requirements.md)
-- Beer's Law, Signal, and Noise
+- [Beer's Law, Signals and Calibration](/notebooks/quantitation.ipynb)
 - Analog and Digital Data
-- External Calibration
 - Case Study #1: How Should I Validate, Report, and Archive This Measurement?
 ### Topics Assessed During Exam #2
 - Instrumentation for Spectroscopy
@@ -22,6 +21,7 @@ This course introduces students to modern instrumental methods of chemical analy
 ### Topics Assessed During Exam #3
 - Seperations
 - Ion Chromatography
-- Mass Spectrometry
+- [Mass Spectrometry and Ionization](/notebooks/mass-spectrometry.ipynb)
+- [Mass Analyzers and Detectors](/notebooks/mass-analyzers.ipynb)
 - GC/MS
 - MS

@@ -13,6 +13,7 @@ Second, *J. Chem. Edu.* recently published an article titled "Survey of Instrume
 > 3.	How does instrumentation use and expected experience in chemical industry vary across industrial contexts?
 > 4.	How do industry employers rank the importance of skills and undergraduate coursework for newly hired chemists?
 
+
 A key finding of this study was that the top five instruments for both use and expected experience are mass spectrometry, liquid chromatography, UV−Vis spectroscopy, gas chromatography, and infrared spectroscopy (see figure below). The most-valued skills for succeeding the chemical industry were communicaiton, problem solving, teamwork/collaboration, and critical thinking.  
 ![Instrument experience expected by chemical industrial](graphics-introduction/expected-experience.jpeg)
 **Figure 1.** Percentage of chemical industry companies (N = 80) indicating instrument use (shown in blue) and expected experience (shown in red) when hiring new chemists. The top five instruments for both use and expected experience included Mass Spectrometry (MS), Liquid Chromatography (LC), UV–Vis Spectroscopy, Gas Chromatography (GC), and Infrared (IR) Spectroscopy. Figure and caption reproduced from *J. Chem. Ed.* **2024**, *101*, 1883–1890 ([link](https://doi.org/10.1021/acs.jchemed.3c00990)).
