@@ -5,7 +5,7 @@ This course introduces students to modern instrumental methods of chemical analy
 1. Describe the principles of operation of the major classes of modern chemical instrumentation.
 2. Use modern chemical instrumentation in practical settings to analyze real samples.
 3. Evaluate the performance of chemical measurement in terms of figures of merit including limit of detection, linear dynamic range, and resolution.
-4. Compare and contrast different measurement approaches for specific analytical situations. Select a measurement approach to guide a decision in the context of biomedical research and medical diagnostics.
+4. Compare and contrast different measurement approaches for specific analytical situations. Select a measurement approach to guide decisions.
 ## Topics
 ### Topics Assessed During Exam #1
 - [Introduction](/docs/introduction.md) and [Defining Analytical Requirements](/docs/defining-analytical-requirements.md)
