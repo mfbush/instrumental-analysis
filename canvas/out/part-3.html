@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Molecular Mass Spectrometry</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <ul>
+<li><a href="#molecular-mass-spectrometry">Molecular Mass Spectrometry</a>
+<ul>
+<li><a href="#learning-objectives">Learning Objectives</a></li>
+<li><a href="#in-class-materials">In-Class Materials</a></li>
+<li><a href="#post-class-materials">Post-Class Materials</a></li>
+<li><a href="#professional-in-the-field---prof-abraham-badu-tawiah">Professional in the Field - Prof. Abraham Badu-Tawiah</a></li>
+</ul>
+</li>
+<li><a href="#introduction-to-chemical-separations">Introduction to Chemical Separations</a>
+<ul>
+<li><a href="#learning-objectives-1">Learning Objectives</a></li>
+<li><a href="#in-class-materials-1">In-Class Materials</a></li>
+<li><a href="#post-class-materials-1">Post-Class Materials</a></li>
+<li><a href="#professional-in-the-field---prof-michelle-khine">Professional in the Field - Prof. Michelle Khine</a></li>
+</ul>
+</li>
+<li><a href="#gas-chromatography">Gas Chromatography</a>
+<ul>
+<li><a href="#learning-objectives-2">Learning Objectives</a></li>
+<li><a href="#in-class-materials-2">In-Class Materials</a></li>
+<li><a href="#post-class-materials-2">Post-Class Materials</a></li>
+<li><a href="#professional-in-the-field">Professional in the Field</a></li>
+</ul>
+</li>
+<li><a href="#high-performance-liquid-chromatography">High-Performance Liquid Chromatography</a>
+<ul>
+<li><a href="#learning-objectives-3">Learning Objectives</a></li>
+<li><a href="#in-class-materials-3">In-Class Materials</a></li>
+<li><a href="#post-class-materials-3">Post-Class Materials</a></li>
+<li><a href="#professional-in-the-field---prof-isiah-warner">Professional in the Field - Prof. Isiah Warner</a></li>
+</ul>
+</li>
+<li><a href="#hybrid-chromatography--mass-spectrometry-experiments">Hybrid Chromatography / Mass Spectrometry Experiments</a>
+<ul>
+<li><a href="#learning-objectives-4">Learning Objectives</a></li>
+<li><a href="#in-class-materials-4">In-Class Materials</a></li>
+<li><a href="#post-class-materials-4">Post-Class Materials</a></li>
+<li><a href="#professional-in-the-field-1">Professional in the Field</a></li>
+</ul>
+</li>
+<li><a href="#exam-3">Exam #3</a>
+<ul>
+<li><a href="#what-to-expect">What to Expect</a></li>
+<li><a href="#what-to-bring-to-the-exam">What to Bring to the Exam</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="molecular-mass-spectrometry">Molecular Mass Spectrometry</h2>
+<h3 id="learning-objectives">Learning Objectives</h3>
+<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h3 id="in-class-materials">In-Class Materials</h3>
+<h3 id="post-class-materials">Post-Class Materials</h3>
+<h3 id="professional-in-the-field---prof-abraham-badu-tawiah">Professional in the Field - Prof. Abraham Badu-Tawiah</h3>
+<ul>
+<li><a href="https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/">Prof. Abraham Badu-Tawiah</a>, Ohio State University, focused on the early diagnosis of disease using mass spectrometry.</li>
+<li><a href="http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2">Interview</a> in the <em>Journal of the American Society for Mass Spectrometry</em>.</li>
+<li><a href="https://youtu.be/NG2vdK-UTxU?si=j0TYttRxCsb6-1mC">Video research profile</a>.</li>
+</ul>
+<h2 id="introduction-to-chemical-separations">Introduction to Chemical Separations</h2>
+<h3 id="learning-objectives-1">Learning Objectives</h3>
+<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<ul>
+<li>Describe the principle of separation in chromatography.</li>
+<li>Define stationary phase, mobile phase, retention factor, and resolution.</li>
+<li>Sketch a block diagram for a chromatography experiment.</li>
+<li>Using principles from chromatography and general chemistry, assign the key features of a chromatogram.</li>
+<li>Determine values for retention time, void time, retention factor, selectivity factor, and resolution from a chromatogram.</li>
+</ul>
+<h3 id="in-class-materials-1">In-Class Materials</h3>
+<h3 id="post-class-materials-1">Post-Class Materials</h3>
+<h3 id="professional-in-the-field---prof-michelle-khine">Professional in the Field - Prof. Michelle Khine</h3>
+<ul>
+<li><a href="https://engineering.uci.edu/users/michelle-khine">Prof. Michelle Khine</a>, University of California, Irvine, develops &quot;microfabricated polymeric devices for cellular manipulation and analyses.&quot; She also &quot;spun out a company, Fluxion Biosciences (San Francisco), based on her dissertation work of single-cell electroporation.</li>
+<li><a href="https://www.forbes.com/sites/sallypercy/2018/03/22/scientist-and-innovator-dr-michelle-khine-growing-up-nobody-thought-i-was-smart/?sh=b35ef1164eed">Profile in Forbes</a></li>
+</ul>
+<h2 id="gas-chromatography">Gas Chromatography</h2>
+<h3 id="learning-objectives-2">Learning Objectives</h3>
+<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h3 id="in-class-materials-2">In-Class Materials</h3>
+<h3 id="post-class-materials-2">Post-Class Materials</h3>
+<h3 id="professional-in-the-field">Professional in the Field</h3>
+<h2 id="high-performance-liquid-chromatography">High-Performance Liquid Chromatography</h2>
+<h3 id="learning-objectives-3">Learning Objectives</h3>
+<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h3 id="in-class-materials-3">In-Class Materials</h3>
+<h3 id="post-class-materials-3">Post-Class Materials</h3>
+<h3 id="professional-in-the-field---prof-isiah-warner">Professional in the Field - Prof. Isiah Warner</h3>
+<ul>
+<li><a href="https://faculty.lsu.edu/iwarner/">Prof. Isiah Warner</a>, Louisiana State University (and UW Chemistry Alumnus!)</li>
+<li><a href="https://youtu.be/AFUmN__aHCE?si=t4vDgVLy2NZ8np8w">ACS Video Profile</a></li>
+</ul>
+<h2 id="hybrid-chromatography--mass-spectrometry-experiments">Hybrid Chromatography / Mass Spectrometry Experiments</h2>
+<h3 id="learning-objectives-4">Learning Objectives</h3>
+<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h3 id="in-class-materials-4">In-Class Materials</h3>
+<h3 id="post-class-materials-4">Post-Class Materials</h3>
+<h3 id="professional-in-the-field-1">Professional in the Field</h3>
+<ul>
+<li><a href="https://chem.unc.edu/faculty/baker-erin/">Prof. Erin Baker</a>, University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.</li>
+<li><a href="https://youtu.be/Gm363wP1Zgs?si=OKYsj_iTEfN7TSkE">Interview</a></li>
+</ul>
+<h2 id="exam-3">Exam #3</h2>
+<h3 id="what-to-expect">What to Expect</h3>
+<ul>
+<li>Exams are designed to measure how well each student has mastered the specific learning objectives described above. Questions on the exam will assess one or more of those learning objectives.</li>
+<li>Questions will primarily focus on learning objectives introduced since the last exam, but may also assess learning objectives from earlier in the quarter.</li>
+<li>Each exam will consist of three or four multipart problems that will require quantitative reasoning and critical thinking. A typical problem consist of a paragraph describing a protocol or scenario, some experimental data (tables, graphs, etc.), and a series of questions.</li>
+<li>Each exam will take place during a scheduled class time. Students can bring a note card (described below), but otherwise, the exam will be closed notes / closed book.</li>
+</ul>
+<h3 id="what-to-bring-to-the-exam">What to Bring to the Exam</h3>
+<ul>
+<li>Calculator. Anything readily recognizable as a scientific or graphing calculator. No QWERTY keyboard. Not able to connect to the internet.</li>
+<li>3&quot;x5&quot; note card, with notes on both sides. Must turn in note card with exam.</li>
+</ul>
+
+            
+            
+        </body>
+        </html>
