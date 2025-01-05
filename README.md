@@ -7,7 +7,3 @@ This course introduces students to modern instrumental methods of chemical analy
 3. Evaluate the performance of chemical measurement in terms of figures of merit including limit of detection, linear dynamic range, and resolution.
 4. Compare and contrast different measurement approaches for specific analytical situations. Select a measurement approach to guide decisions.
 graphy
-- [Mass Spectrometry and Ionization](/notebooks/mass-spectrometry.ipynb)
-- [Mass Analyzers and Detectors](/notebooks/mass-analyzers.ipynb)
-- GC/MS
-- MS
