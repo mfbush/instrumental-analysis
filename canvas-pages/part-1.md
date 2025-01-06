@@ -46,6 +46,7 @@
 - [Prof. Susan Richardson](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/richardson_susan.php), University of South Carolina, was recently elected to the National Academy of Engineers for developing "methods to measure disinfection byproducts and other contaminants in water and advancing their use in treatment and risk assessment."
 - [Short video describing her research.](https://youtu.be/w6L71FA9tAg?si=SjP2ogs1YfZx5NB7)
 - [Interview with Susan Richardson.](https://theanalyticalscientist.com/fields-applications/an-affinity-for-water)
+- [Research seminar](https://youtu.be/dCXKkU3q4nM?si=lwU2MrJcFWtLBZZD). Uncovering Emerging Water Contaminants and Making Drinking Safer.
 
 ## Electrical Components and Circuits
 ### Learning Objectives
