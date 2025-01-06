@@ -1,1 +1,0 @@
-The notebooks were developed by Matt Bush for use in CHEM 426/526 Instrumental Analysis at the University of Washington.
