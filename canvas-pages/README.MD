@@ -1,0 +1,1 @@
+These markdown files are used to generate HTML for the Canvas site for CHEM 426/526 Instrumental Analysis. The HTML versions were generated using [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) and the command "Markdown: Print documents to HTML".
