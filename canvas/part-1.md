@@ -37,6 +37,7 @@
 - Describe the differences between deterministic and indeterministic errors.
 - Based on results for replicate measurements using the same method, calculate the noise and the limit of detection of the method.
 ### In-Class Materials
+- [Jupyter Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/signals-and-noise.ipynb)
 ### Post-Class Materials
 - 1D-2: External Standard Calibration
 - 1E: Selecting an Analytical Method
