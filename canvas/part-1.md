@@ -34,8 +34,8 @@
 - Describe the differences between qualitative and quantitative analysis. 
 - Based on results for standards that each contain an analyte at a known concentration, construct a calibration curve and determine a response function.
 - Calculate the concentration of an analyte in a sample, based on analysis of a sample and multiple external standards.
-- Describe the differences between determinate and indeterminate errors.
-- Based on results for replicate measurements using the same method, calculate the noise, limit of detection, and limit of quantification of the method.
+- Describe the differences between deterministic and indeterministic errors.
+- Based on results for replicate measurements using the same method, calculate the noise and the limit of detection of the method.
 ### In-Class Materials
 ### Post-Class Materials
 - 1D-2: External Standard Calibration
