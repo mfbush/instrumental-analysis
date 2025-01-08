@@ -3,7 +3,7 @@
   - [In-Class Materials](#in-class-materials)
   - [Post-Class Materials](#post-class-materials)
   - [Professional in the Field - Susan Richardson](#professional-in-the-field---susan-richardson)
-- [Electrical Components and Circuits](#electrical-components-and-circuits)
+- [Transducers, Electrical Components, and Circuits](#transducers-electrical-components-and-circuits)
   - [Learning Objectives](#learning-objectives-1)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
@@ -42,19 +42,28 @@
 - 1D-2: External Standard Calibration
 - 1E: Selecting an Analytical Method
 - 5A: Signal-to-Noise Ratio
+- Suggested problems in book: 1-8, 1-10, 5-6, 5-7
 ### Professional in the Field - Susan Richardson
 - [Prof. Susan Richardson](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/richardson_susan.php), University of South Carolina, was recently elected to the National Academy of Engineers for developing "methods to measure disinfection byproducts and other contaminants in water and advancing their use in treatment and risk assessment."
 - [Short video describing her research.](https://youtu.be/w6L71FA9tAg?si=SjP2ogs1YfZx5NB7)
 - [Interview with Susan Richardson.](https://theanalyticalscientist.com/fields-applications/an-affinity-for-water)
 - [Research seminar](https://youtu.be/dCXKkU3q4nM?si=lwU2MrJcFWtLBZZD). Uncovering Emerging Water Contaminants and Making Drinking Safer.
 
-## Electrical Components and Circuits
+## Transducers, Electrical Components, and Circuits
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Define a transducer in an analytical instrument.
+- Using Ohm's law, perform calculations that relate voltage, current, and resistance.
+- Using the laws of electricity, calculate values for electrical properties in direct-current circuits with resistors in series and parallel.
+- Describe the properties of an alternating-current circuits, including frequency and amplitude.
+- Calculate time constants for simple resistor-capacitor circuits. 
+- Compare and contrast high-pass and low-pass filters. Given the properties of a source of noise, select an appropriate filter.
 ### In-Class Materials
 ### Post-Class Materials
+- 1C: Instruments for Analysis
 - 2A: Direct Current Circuits and Measurements
 - 2B: Alternating Current Circuits
+- Suggest problems in the book: 2-1, 2-6, 2-10, 2-14, 2-15
 ### Professional in the Field - Nancy Allbritton
 - [Prof. Nancy Allbritton](https://bioe.uw.edu/portfolio-items/nancy-allbritton/), University of Washington, was recently elected to the National Academy of Engineers for "innovation and commercialization of single-cell, analytical, and gut-on-chip technologies for drug screening and for engineering education."
 - [Interview with Nancy Allbritton.](https://www.engr.washington.edu/news/article/2019-10-01/meet-nancy-allbritton)
