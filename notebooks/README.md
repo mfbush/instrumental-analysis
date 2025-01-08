@@ -2,8 +2,8 @@ These notebooks were developed by Matt Bush for use in CHEM 426/526 Instrumental
 
 ## Class List
 
-- [Analytes, Signals, and Noise](signals-and-noise.ipynb)
-- Electrical Components and Circuits
+- [Analytes, Signals, and Noise](./signals-and-noise.ipynb)
+- [Transducers, Electrical Components, and Circuits](./transducers.ipynb)
 - Operational Amplifiers
 - Analog and Digital Data
 - Electroanalytical Measurents

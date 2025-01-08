@@ -59,6 +59,7 @@
 - Calculate time constants for simple resistor-capacitor circuits. 
 - Compare and contrast high-pass and low-pass filters. Given the properties of a source of noise, select an appropriate filter.
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/transducers.ipynb)
 ### Post-Class Materials
 - 1C: Instruments for Analysis
 - 2A: Direct Current Circuits and Measurements
