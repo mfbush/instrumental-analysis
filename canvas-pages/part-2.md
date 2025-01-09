@@ -2,12 +2,12 @@
   - [Learning Objectives](#learning-objectives)
   - [In-Class Materials](#in-class-materials)
   - [Post-Class Materials](#post-class-materials)
-  - [Professional in the Field](#professional-in-the-field)
+  - [Professional in the Field - Livia Eberlin](#professional-in-the-field---livia-eberlin)
 - [UV-Vis Absorption Spectrometry](#uv-vis-absorption-spectrometry)
   - [Learning Objectives](#learning-objectives-1)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
-  - [Professional in the Field](#professional-in-the-field-1)
+  - [Professional in the Field](#professional-in-the-field)
 - [Molecular Luminescence](#molecular-luminescence)
   - [Learning Objectives](#learning-objectives-2)
   - [In-Class Materials](#in-class-materials-2)
@@ -17,12 +17,12 @@
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
-  - [Professional in the Field](#professional-in-the-field-2)
+  - [Professional in the Field](#professional-in-the-field-1)
 - [Infrared Spectroscopy](#infrared-spectroscopy)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
-  - [Professional in the Field](#professional-in-the-field-3)
+  - [Professional in the Field](#professional-in-the-field-2)
 - [Exam #2](#exam-2)
   - [What to Expect](#what-to-expect)
   - [What to Bring to the Exam](#what-to-bring-to-the-exam)
@@ -37,7 +37,9 @@
 - 7C: Wavelength Selectors, excluding Other Wavelength Selectors
 - 7D: Sample Containers
 - 7E-1: Radiation Transducers: Introduction
-### Professional in the Field
+### Professional in the Field - Livia Eberlin
+- [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
+- [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
 
 ## UV-Vis Absorption Spectrometry
 ### Learning Objectives

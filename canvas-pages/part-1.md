@@ -12,7 +12,7 @@
   - [Learning Objectives](#learning-objectives-2)
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
-  - [Professional in the Field - Livia Eberlin](#professional-in-the-field---livia-eberlin)
+  - [Professional in the Field - Ben Garcia](#professional-in-the-field---ben-garcia)
 - [Analog and Digital Data](#analog-and-digital-data)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
@@ -77,9 +77,10 @@
 - 3A: Properties of Operational Amplifiers
 - 3B: Operational Amplifier Circuits
 - 3C: Amplification and Measurement of Transducer Signals, excluding 3C-4.
-### Professional in the Field - Livia Eberlin
-- [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
-- [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
+### Professional in the Field - Ben Garcia
+- [Prof. Ben Garcia](https://www.bengarcialab.com/about-the-pi/), Washington University in St. Louis, "focused on developing novel mass spectrometry based approaches and computation for interrogating protein modifications, especially those involved in epigenetic mechanisms."
+- [Profile in the Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.3c00407)
+- [Podcast episode "Ep. 32: Don’t skip seminar…you might miss a life-changing event "](https://www.spectroscopyonline.com/view/ep-32-don-t-skip-seminar-you-might-miss-a-life-changing-event). The episode begins with his pathway to chemistry and research and includes a very accessible introduction to his research.
 
 ## Analog and Digital Data
 ### Learning Objectives
