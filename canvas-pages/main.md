@@ -6,6 +6,11 @@
   - [Textbook](#textbook)
 - [Course-Level Learning Objectives](#course-level-learning-objectives)
 - [Lab Policies and Resources](#lab-policies-and-resources)
+  - [Expectations In Lab](#expectations-in-lab)
+  - [Lab Attire](#lab-attire)
+  - [Submissions](#submissions)
+  - [Due Dates and Late Submissions](#due-dates-and-late-submissions)
+  - [Additional Help](#additional-help)
 - [Course Policies and Resources](#course-policies-and-resources)
   - [Our Inclusive Learning Environment](#our-inclusive-learning-environment)
   - [Communicating with the Instructional Team](#communicating-with-the-instructional-team)
@@ -47,9 +52,25 @@ The learning objectives and activities for this course were developed with the f
 
 ## Lab Policies and Resources
 - You will not be assigned a desk for this laboratory. Lab work is done at various locations, as listed above. Computers are available for data analysis and report writing.
-- Most of you will be working in pairs (labeled A, B, C and D in the Laboratory Schedule). It is desirable that each partner obtains their own data. In rare cases, this will be impossible. However, each person must submit a separate, independent lab report. Copying or paraphrasing of a partner's report will result in a mark of zero on that lab for both partners.
-- Before leaving the laboratory, you must submit your data to the TA or the instructor for preliminary evaluation and initialization. Make sure that you have properly restored the instrument to its stand-by condition.
-- Please come to the laboratory prepared. Read the manual carefully before performing the experiments. The TA will be happy to answer any questions at the beginning of the lab period. Note that there are references at the beginning of some of the experiments. These are available either in the library or on-line. You may find it helpful to consult them before embarking on the experiments if you have questions about the experimental methods or principles of operation.
+- Most of you will be working in pairs (labeled A, B, C and D in the Laboratory Schedule). It is desirable that each partner obtains their own data. In rare cases, this will be impossible. However, each person must prepare separate, independent submissions. Copying or paraphrasing of a partner's work will result in a mark of zero on that lab for both partners.
+
+### Expectations In Lab
+- Arrive in lab on time and prepared for the scheduled activity. Read the manual carefully before performing the experiments. The TA will be happy to answer any questions at the beginning of the lab period. Note that there are references at the beginning of some of the experiments. These are available either in the library or on-line. You may find it helpful to consult them before embarking on the experiments if you have questions about the experimental methods or principles of operation. 
+- If you arrive more than 10 minutes late, the TA may exclude you from lab that day.
+- Students must conduct laboratory work in a safe and courteous manner. This includes following department [safety protocols](https://chem.washington.edu/lab-safety-protocols). More generally, this includes not interfering with activities of others, including the responsibilities of TAs to maintain a safe lab environment and the ability of other students to conduct their laboratory work.
+- Before leaving the laboratory, you must show your laboratory notes and data to the TA or the instructor for preliminary evaluation. Make sure that you have properly restored the instrument to its stand-by condition. This is required for full credit for the in-lab and post-lab portion of the activity.
+### Lab Attire
+At all times in laboratory spaces, students must wear appropriate [lab attire](https://chem.washington.edu/student-lab-attire), including PPE.
+### Submissions
+- The pre-lab and post-lab submissions for each activity must be typed and submitted electronically on Canvas.
+### Due Dates and Late Submissions
+- The prelab for each activity is due at the beginning of the lab period when you are scheduled for that activity. Students who have submitted a prelab may view a key for the prelab before they begin their lab work.
+- The postlab for each activity is due at the beginning of the lab period following when you were scheduled for that activity.
+- Late submissions will be penalized by 10% of the maximum points per day.
+- No submissions will be accepted after 5 pm on the last day of instruction (March 14, 2025).
+### Additional Help
+- Like other portions of the course, you may ask questions during office hours and post questions on the discussion board.
+- After the first hour of a scheduled lab section, students from other sections may drop in to talk with the TA for that section. Note: The TA must prioritize students enrolled in the current section, but will help a student from another section as time permits. At all times in laboratory spaces, students must wear appropriate [lab attire](https://chem.washington.edu/student-lab-attire), including PPE.
 
 ## Course Policies and Resources
 ### Our Inclusive Learning Environment
