@@ -11,6 +11,7 @@
   - [Submissions](#submissions)
   - [Due Dates and Late Submissions](#due-dates-and-late-submissions)
   - [Additional Help](#additional-help)
+  - [Excused Absences and Reschedules](#excused-absences-and-reschedules)
 - [Course Policies and Resources](#course-policies-and-resources)
   - [Our Inclusive Learning Environment](#our-inclusive-learning-environment)
   - [Communicating with the Instructional Team](#communicating-with-the-instructional-team)
@@ -64,13 +65,17 @@ At all times in laboratory spaces, students must wear appropriate [lab attire](h
 ### Submissions
 - The pre-lab and post-lab submissions for each activity must be typed and submitted electronically on Canvas.
 ### Due Dates and Late Submissions
-- The prelab for each activity is due at the beginning of the lab period when you are scheduled for that activity. Students who have submitted a prelab may view a key for the prelab before they begin their lab work.
-- The postlab for each activity is due at the beginning of the lab period following when you were scheduled for that activity.
+- The pre-lab for each activity is due at the beginning of the lab period when you are scheduled for that activity. Students who have submitted a pre-lab may view a key for the pre-lab before they begin their lab work.
+- The post-lab for each activity is due at the beginning of the lab period following when you were scheduled for that activity.
 - Late submissions will be penalized by 10% of the maximum points per day.
 - No submissions will be accepted after 5 pm on the last day of instruction (March 14, 2025).
 ### Additional Help
 - Like other portions of the course, you may ask questions during office hours and post questions on the discussion board.
 - After the first hour of a scheduled lab section, students from other sections may drop in to talk with the TA for that section. Note: The TA must prioritize students enrolled in the current section, but will help a student from another section as time permits. At all times in laboratory spaces, students must wear appropriate [lab attire](https://chem.washington.edu/student-lab-attire), including PPE.
+### Excused Absences and Reschedules
+- Document absences using the [UW Chemistry Absence Form](https://chem.washington.edu/student-absences).
+- To reschedule a lab activity, please coordinate with the Stockroom manager.
+- If you are unable to reschedule a lab activity, work with your teaching assistant to receive sample data that you can use to complete the post-lab.
 
 ## Course Policies and Resources
 ### Our Inclusive Learning Environment
