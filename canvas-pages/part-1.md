@@ -73,6 +73,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/opamps.ipynb)
 ### Post-Class Materials
 - 3A: Properties of Operational Amplifiers
 - 3B: Operational Amplifier Circuits
