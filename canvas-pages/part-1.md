@@ -87,6 +87,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/analog-and-digital-data.ipynb)
 ### Post-Class Materials
 - 4A: Analog and Digital Signals
 - 4B: Counting with Arithmetic with Binary Numbers
@@ -100,6 +101,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/electroanalytical-methods.ipynb)
 ### Post-Class Materials
 - 25A: Excitation Signals in Voltammetry
 - 25B: Voltammetric Instrumentation

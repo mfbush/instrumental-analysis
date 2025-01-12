@@ -31,6 +31,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/optical-instruments.ipynb)
 ### Post-Class Materials
 - 7A: General Designs of Optical Instruments
 - 7B: Sources of Radiation
@@ -45,6 +46,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/uv-vis.ipynb)
 ### Post-Class Materials
 ### Professional in the Field
 
@@ -52,6 +54,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/molecular-luminescence.ipynb)
 ### Post-Class Materials
 ### Professional in the Field - Prof. Christy Haynes
 - [Prof. Christy Haynes](https://cse.umn.edu/chem/christy-l-haynes), University of Minnesota, "studies pressing fundamental and applied problems in nanoscience, environmental science, and microbiology using a diverse set of analytical and materials techniques."
@@ -61,6 +64,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/atomic-spectroscopy.ipynb)
 ### Post-Class Materials
 ### Professional in the Field
 
@@ -68,6 +72,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/infrared-spectroscopy.ipynb)
 ### Post-Class Materials
 - 7I: Principles of Fourier Transform Optical Instruments
 ### Professional in the Field
