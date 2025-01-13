@@ -72,12 +72,16 @@
 ## Operational Amplifiers
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Define the fundamental operating principles of operational amplifiers.
+- Calculate the linear operating range of a comparator, based on the gain and the voltage limits of the operational amplifier.
+- Explain the benefit the high input impedance of an operational amplifier when used as a transducer of a chemical measurement.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/opamps.ipynb)
 ### Post-Class Materials
 - 3A: Properties of Operational Amplifiers
 - 3B: Operational Amplifier Circuits
 - 3C: Amplification and Measurement of Transducer Signals, excluding 3C-4.
+- Suggested problems: 3-1, 3-4, and Example 3-1
 ### Professional in the Field - Ben Garcia
 - [Prof. Ben Garcia](https://www.bengarcialab.com/about-the-pi/), Washington University in St. Louis, "focused on developing novel mass spectrometry based approaches and computation for interrogating protein modifications, especially those involved in epigenetic mechanisms."
 - [Profile in the Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.3c00407)
