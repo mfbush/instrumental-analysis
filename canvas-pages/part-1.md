@@ -90,12 +90,18 @@
 ## Analog and Digital Data
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Convert values between between equivalent binary, decimal, and binary-coded decimal representations.
+- Compare binary, decimal, and binary-coded decimal representations in terms of storage size and ease of math operations.
+- For an analog-to-digital convertor with a given full-scale value, bit resolution, and analog value, calculate the resulting digital signal.
+- Based on the least significant bit of an analog-to-digital converter, estimate the relative uncertainty of a digitized value.
+- Select an appropriate sampling frequency based on the signal to be digitized in a specific measurement. 
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/analog-and-digital-data.ipynb)
 ### Post-Class Materials
 - 4A: Analog and Digital Signals
 - 4B: Counting with Arithmetic with Binary Numbers
 - 4C: Basic Digital Circuits
+- Suggested Problems: 4-1, 4-2, 4-3, 4-8, 4-9, 4-11, 4-12
 ### Professional in the Field - Candice Ulmer
 - [Dr. Candice Ulmer](https://www.linkedin.com/in/candice-z-ulmer-holland-ph-d-40851453) is a Supervisory Chemist Branch Chief for the US Department of Agriculture, where see oversees the use of chemical instrumentation for: [1] chemical residue detection in animals presented for slaughter, [2] food chemistry, and [3] nutritional impact." Previously, she was a clinical chemist for the Centers for Disease Control.
 - [Career Ladder](https://cen.acs.org/careers/women-in-science/Career-Ladder-Candice-Z-Ulmer-Holland/101/i5 )
