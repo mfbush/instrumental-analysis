@@ -101,7 +101,7 @@
 - 4A: Analog and Digital Signals
 - 4B: Counting with Arithmetic with Binary Numbers
 - 4C: Basic Digital Circuits
-- Suggested Problems: 4-1, 4-2, 4-3, 4-8, 4-9, 4-11, 4-12
+- Suggested Problems: 4-1, 4-2, 4-3, 4-7, 4-8, 4-9, 4-11, 4-12
 ### Professional in the Field - Candice Ulmer
 - [Dr. Candice Ulmer](https://www.linkedin.com/in/candice-z-ulmer-holland-ph-d-40851453) is a Supervisory Chemist Branch Chief for the US Department of Agriculture, where see oversees the use of chemical instrumentation for: [1] chemical residue detection in animals presented for slaughter, [2] food chemistry, and [3] nutritional impact." Previously, she was a clinical chemist for the Centers for Disease Control.
 - [Career Ladder](https://cen.acs.org/careers/women-in-science/Career-Ladder-Candice-Z-Ulmer-Holland/101/i5 )
