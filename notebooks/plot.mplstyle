@@ -1,0 +1,21 @@
+font.size : 12
+font.family : "Open Sans"
+lines.linewidth : 2.0
+lines.markersize : 10.0
+axes.linewidth : 2.0
+axes.labelweight : "bold"
+markers.fillstyle : "none"
+xtick.top : True
+xtick.direction : "in"
+xtick.major.size : 5
+xtick.minor.size : 5
+xtick.major.width : 2
+xtick.minor.width : 2
+ytick.right : True
+ytick.direction : "in"
+ytick.major.size : 5
+ytick.major.width : 2
+ytick.minor.width : 2
+legend.fancybox : True
+axes.titlesize : 12
+axes.titleweight : "bold"
