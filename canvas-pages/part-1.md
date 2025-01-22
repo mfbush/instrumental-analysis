@@ -117,7 +117,7 @@
 - 25A: Excitation Signals in Voltammetry
 - 25B: Voltammetric Instrumentation
 - 25D: Cyclic Voltammetry
-- Suggested problems: 25-10, 25-11, 25-12
+- Suggested problems: 25-4, 25-10, 25-11, 25-12
 ### Professional in the Field - Joaquín Rodríguez-López
 - [Prof. Joaquín Rodríguez-López](https://chemistry.illinois.edu/joaquinr), University of Illinois, "focuses on characterizing heterogeneous electrode materials for elucidating their function and generating new strategies to advance electrochemical energy technologies and sensing."
 - [Interview with Prof. Joaquín Rodríguez-López](https://youtu.be/x4nCq8uyjPU?si=4kbXja-P4vPOUVE_)
