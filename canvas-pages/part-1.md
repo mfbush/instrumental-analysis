@@ -64,7 +64,7 @@
 - 1C: Instruments for Analysis
 - 2A: Direct Current Circuits and Measurements
 - 2B: Alternating Current Circuits
-- Suggest problems in the book: 2-1, 2-6, 2-10, 2-14, 2-15. [Solutions](../notebooks/sp-transducers.ipynb).
+- Suggest problems in the book: 2-1, 2-6, 2-10, 2-14, 2-15. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-transducers.ipynb).
 ### Professional in the Field - Nancy Allbritton
 - [Prof. Nancy Allbritton](https://bioe.uw.edu/portfolio-items/nancy-allbritton/), University of Washington, was recently elected to the National Academy of Engineers for "innovation and commercialization of single-cell, analytical, and gut-on-chip technologies for drug screening and for engineering education."
 - [Interview with Nancy Allbritton.](https://www.engr.washington.edu/news/article/2019-10-01/meet-nancy-allbritton)
@@ -81,7 +81,7 @@
 - 3A: Properties of Operational Amplifiers
 - 3B: Operational Amplifier Circuits
 - 3C: Amplification and Measurement of Transducer Signals, excluding 3C-4.
-- Suggested problems: 3-1, 3-4, and Example 3-1. [Solutions](../notebooks/sp-opamps.ipynb).
+- Suggested problems: 3-1, 3-4, and Example 3-1. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-opamps.ipynb).
 ### Professional in the Field - Ben Garcia
 - [Prof. Ben Garcia](https://www.bengarcialab.com/about-the-pi/), Washington University in St. Louis, "focused on developing novel mass spectrometry based approaches and computation for interrogating protein modifications, especially those involved in epigenetic mechanisms."
 - [Profile in the Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.3c00407)
@@ -101,7 +101,7 @@
 - 4A: Analog and Digital Signals
 - 4B: Counting with Arithmetic with Binary Numbers
 - 4C: Basic Digital Circuits
-- Suggested Problems: 4-1, 4-2, 4-3, 4-7, 4-8, 4-9, 4-11, 4-12. [Solutions](../notebooks/sp-analog-and-digital-data.ipynb).
+- Suggested Problems: 4-1, 4-2, 4-3, 4-7, 4-8, 4-9, 4-11, 4-12. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-analog-and-digital-data.ipynb).
 ### Professional in the Field - Candice Ulmer
 - [Dr. Candice Ulmer](https://www.linkedin.com/in/candice-z-ulmer-holland-ph-d-40851453) is a Supervisory Chemist Branch Chief for the US Department of Agriculture, where see oversees the use of chemical instrumentation for: [1] chemical residue detection in animals presented for slaughter, [2] food chemistry, and [3] nutritional impact." Previously, she was a clinical chemist for the Centers for Disease Control.
 - [Career Ladder](https://cen.acs.org/careers/women-in-science/Career-Ladder-Candice-Z-Ulmer-Holland/101/i5 )
@@ -117,7 +117,7 @@
 - 25A: Excitation Signals in Voltammetry
 - 25B: Voltammetric Instrumentation
 - 25D: Cyclic Voltammetry
-- Suggested problems: 25-4, 25-10, 25-11, 25-12
+- Suggested problems: 25-4, 25-9, 25-10
 ### Professional in the Field - Joaquín Rodríguez-López
 - [Prof. Joaquín Rodríguez-López](https://chemistry.illinois.edu/joaquinr), University of Illinois, "focuses on characterizing heterogeneous electrode materials for elucidating their function and generating new strategies to advance electrochemical energy technologies and sensing."
 - [Interview with Prof. Joaquín Rodríguez-López](https://youtu.be/x4nCq8uyjPU?si=4kbXja-P4vPOUVE_)
