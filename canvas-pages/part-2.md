@@ -31,13 +31,17 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/optical-instruments.ipynb)
+- [Slides](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164285)
+- [Notes](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164290)
+<!-- - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/optical-instruments.ipynb) -->
 ### Post-Class Materials
 - 7A: General Designs of Optical Instruments
 - 7B: Sources of Radiation
 - 7C: Wavelength Selectors, excluding Other Wavelength Selectors
 - 7D: Sample Containers
 - 7E-1: Radiation Transducers: Introduction
+- 13D: Instrumentation
+- Suggested Problems: 13-13, 13-14, 13-16, 13-17, 13-20, 13-21
 ### Professional in the Field - Livia Eberlin
 - [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
 - [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
@@ -45,9 +49,23 @@
 ## UV-Vis Absorption Spectrometry
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Describe limitations to Beer's law. 
+- Qualitatively predict whether a limitation to Beer's law will cause a positive or negative bias to an analysis.
+- Using principles from general chemistry, estimate the effect of speciation on the apparent absorbance of an analyte.
+- Compare types and sources of noise in transmittance measurements.
+- Describe the steps required to develop a procedure for an absorbance measurement.
+- Using classical least-squares analysis, quantify individual analytes in a mixture.
+- Using results from a spectrophotometric titration, determine the end point of the titration and the concentration of the analyte.
+
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/uv-vis.ipynb)
 ### Post-Class Materials
+- Review the standard addition method, a learning objective from CHEM 321 Quantitative Analysis
+- 13B: Beer's Law
+- 13C: The Effects of Instrumental Noise on Spectrophotometric Analyses
+- 14D: Quantitative Analysis by Absorption Measurements
+- 14E: Photometric and Spectrophotometric Titrations
+- Suggested Problems: Example 13-1, 13-8, 13-9, 14-4, 14-8, 14-10
 ### Professional in the Field
 
 ## Molecular Luminescence
