@@ -71,9 +71,19 @@
 ## Molecular Luminescence
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Define, compare, and contrast absorption, fluorescence, phosphorescence, and chemiluminescence.
+- Sketch a Jablonski diagram for those processes.
+- Based on results from luminescence experiments, determine the concentration of an analyte.
+- Sketch block diagrams for typical instruments for luminescence measurements.
+- Describe molecular probes and luminescence systems.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/molecular-luminescence.ipynb)
 ### Post-Class Materials
+- 15A
+- 15B
+- 15C
+- 15D
+- Suggest problems: 15-1, 15-3, 15-5, 15-7, 15-9, 15-10
 ### Professional in the Field - Prof. Christy Haynes
 - [Prof. Christy Haynes](https://cse.umn.edu/chem/christy-l-haynes), University of Minnesota, "studies pressing fundamental and applied problems in nanoscience, environmental science, and microbiology using a diverse set of analytical and materials techniques."
 - [Podcast](https://www.peoplebehindthescience.com/dr-christy-haynes/) "Tiny Technology with Big Impacts: Nanoparticles for Medicine, Energy, and the Environment"
