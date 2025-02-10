@@ -13,12 +13,12 @@
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
   - [Professional in the Field - Prof. Christy Haynes](#professional-in-the-field---prof-christy-haynes)
-- [Atomic Spectroscopy](#atomic-spectroscopy)
+- [Infrared Spectroscopy](#infrared-spectroscopy)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
   - [Professional in the Field](#professional-in-the-field-1)
-- [Infrared Spectroscopy](#infrared-spectroscopy)
+- [Atomic Spectroscopy](#atomic-spectroscopy)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
@@ -88,21 +88,29 @@
 - [Prof. Christy Haynes](https://cse.umn.edu/chem/christy-l-haynes), University of Minnesota, "studies pressing fundamental and applied problems in nanoscience, environmental science, and microbiology using a diverse set of analytical and materials techniques."
 - [Podcast](https://www.peoplebehindthescience.com/dr-christy-haynes/) "Tiny Technology with Big Impacts: Nanoparticles for Medicine, Energy, and the Environment"
 
+## Infrared Spectroscopy
+### Learning Objectives
+*At the conclusion of in-class and outside learning, participants will be able to:*
+- Relate wavelength, wavenumber, and frequency in the infrared region of the spectrum.
+- Describe the principle of optical interference.
+- Describe the operation of a Michelson interferometer.
+- Based on the frequency of light and the mirror velocity, calculate the modulated frequency in the resulting interferogram.
+- List the advantages of FT-IR relative to IR using dispersive instruments.
+### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/infrared-spectroscopy.ipynb)
+### Post-Class Materials
+- 7I: Principles of Fourier Transform Optical Instruments
+- 16A
+- 16B
+- Suggested Problems: 7-22, 7-23, 16-5, 16-9, 16-14, 17-6, 17-9, 17-10
+### Professional in the Field
+
 ## Atomic Spectroscopy
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/atomic-spectroscopy.ipynb)
 ### Post-Class Materials
-### Professional in the Field
-
-## Infrared Spectroscopy
-### Learning Objectives
-*At the conclusion of in-class and outside learning, participants will be able to:*
-### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/infrared-spectroscopy.ipynb)
-### Post-Class Materials
-- 7I: Principles of Fourier Transform Optical Instruments
 ### Professional in the Field
 
 ## Exam #2
