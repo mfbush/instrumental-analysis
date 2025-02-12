@@ -88,7 +88,7 @@
 - [Prof. Christy Haynes](https://cse.umn.edu/chem/christy-l-haynes), University of Minnesota, "studies pressing fundamental and applied problems in nanoscience, environmental science, and microbiology using a diverse set of analytical and materials techniques."
 - [Podcast](https://www.peoplebehindthescience.com/dr-christy-haynes/) "Tiny Technology with Big Impacts: Nanoparticles for Medicine, Energy, and the Environment"
 
-## Infrared Spectroscopy
+## Infrared Spectroscopy - Fundamentals
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 - Relate wavelength, wavenumber, and frequency in the infrared region of the spectrum.
@@ -105,7 +105,7 @@
 - Suggested Problems: 7-22, 7-23, 16-5, 16-9, 16-14, 17-6, 17-9, 17-10
 ### Professional in the Field
 
-## Atomic Spectroscopy
+## Infrared Spectroscopy - Applications
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
