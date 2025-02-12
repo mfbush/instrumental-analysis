@@ -30,10 +30,16 @@
 ## Components of Optical Instruments
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Define Beer’s law. Perform Calculations relating molar absorptivity, concentration, and path length.
+- Predict the visual appearance of a sample on the basis of its absorbance spectrum.
+- Distinguish between an absorbance spectrum, an absorbance value, and a molar absorptivity.
+- Draw a block diagram for standard instruments for absorbance and for emission measurements.
+- Give examples of light sources and describe their properties.
+- Describe the properties and components of a monochromator.
+- Compare and contrast photodiodes and photomultiplier tubes.
 ### In-Class Materials
 - [Slides](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164285)
 - [Notes](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164290)
-<!-- - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/optical-instruments.ipynb) -->
 ### Post-Class Materials
 - 7A: General Designs of Optical Instruments
 - 7B: Sources of Radiation
@@ -41,7 +47,7 @@
 - 7D: Sample Containers
 - 7E-1: Radiation Transducers: Introduction
 - 13D: Instrumentation
-- Suggested Problems: 13-13, 13-14, 13-16, 13-17, 13-20, 13-21
+- Suggested Problems: 7-2, 13-13, 13-14, 13-16, 13-17, 13-20, 13-21
 ### Professional in the Field - Livia Eberlin
 - [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
 - [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
@@ -56,7 +62,6 @@
 - Describe the steps required to develop a procedure for an absorbance measurement.
 - Using classical least-squares analysis, quantify individual analytes in a mixture.
 - Using results from a spectrophotometric titration, determine the end point of the titration and the concentration of the analyte.
-
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/uv-vis.ipynb)
 ### Post-Class Materials
@@ -102,15 +107,26 @@
 - 7I: Principles of Fourier Transform Optical Instruments
 - 16A
 - 16B
-- Suggested Problems: 7-22, 7-23, 16-5, 16-9, 16-14, 17-6, 17-9, 17-10
+- Suggested Problems: 7-22, 7-23, 16-5, 16-9, 16-14
 ### Professional in the Field
 
 ## Infrared Spectroscopy - Applications
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Compare and contrast qualitative and quantitative applications of IR spectroscopy.
+- Describe the use of spectral libraries for qualitative applications.
+- Compare the information content and utility of mid-IR and near-IR measurements.
+- Compare multichannel IR measurements with IR measurements using photometers.
+- Describe the mechanism in reflectance IR, ATR, and CRDS.
+- Compare and contrast CLS, PLS, and PLA analysis.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-applications.ipynb)
 ### Post-Class Materials
+- 16B-3: Nondispersive Instruments
+- 17A: Mid-IR Absorption Spectrometry
+- 17B: Mid-IR Reflection Spectrometry
+- 17D: Near-IR Spectroscopy
+- Suggested Problems: 17-6, 17-9, 17-10
 ### Professional in the Field
 
 ## Exam #2
