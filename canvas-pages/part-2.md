@@ -13,12 +13,12 @@
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
   - [Professional in the Field - Prof. Christy Haynes](#professional-in-the-field---prof-christy-haynes)
-- [Infrared Spectroscopy](#infrared-spectroscopy)
+- [Infrared Spectroscopy - Fundamentals](#infrared-spectroscopy---fundamentals)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
   - [Professional in the Field](#professional-in-the-field-1)
-- [Atomic Spectroscopy](#atomic-spectroscopy)
+- [Infrared Spectroscopy - Applications](#infrared-spectroscopy---applications)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
@@ -97,7 +97,7 @@
 - Based on the frequency of light and the mirror velocity, calculate the modulated frequency in the resulting interferogram.
 - List the advantages of FT-IR relative to IR using dispersive instruments.
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/infrared-spectroscopy.ipynb)
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-fundamentals.ipynb)
 ### Post-Class Materials
 - 7I: Principles of Fourier Transform Optical Instruments
 - 16A
@@ -109,7 +109,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/atomic-spectroscopy.ipynb)
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-applications.ipynb)
 ### Post-Class Materials
 ### Professional in the Field
 
