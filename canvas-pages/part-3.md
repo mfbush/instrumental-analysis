@@ -31,6 +31,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook]
 ### Post-Class Materials
 ### Professional in the Field - Prof. Abraham Badu-Tawiah
 - [Prof. Abraham Badu-Tawiah](https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/), Ohio State University, focused on the early diagnosis of disease using mass spectrometry.

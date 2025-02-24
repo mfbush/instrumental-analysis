@@ -57,7 +57,7 @@ I spend a lot of time assigning the scores used for this function. Primarily, I 
 
 ### Getting Help
 - **Ask questions** during class, labs, and/or office hours. 
-- **Office Hours**, as indicated in the [calendar](../../calendar) and by appointment.
+- **Office Hours** are held immediately after scheduled lectures.
 > Just as professional athletes rely on coaches to maximize their performance, students who aim to reach the highest levels of success are more likely to accomplish their goals with coaching. As course instructors, an important part of our role is to serve as your “academic coaches.” While we are happy to engage in discussion during class activity time and answer brief questions after class, our Office Hours are the best opportunity for asking questions and getting advice. All students are welcome to attend Office Hours and topics of discussion may include (but are not limited to) specific material from the course, how to improve study habits, how to succeed in college, and future career plans. We are here to be a resource for your success! (adapted from Prof. Jen Heemstra, Emory University) 
 - The [**discussion board**](https://canvas.uw.edu/courses/1778379/discussion_topics) is a good place to post questions. While you are there, take a look at your classmates’ posts and see whether you can help them. Learning happens when people share experiences, knowledge, and ideas.
 - **Form your own study group**. Try using the course discussion board to find interested classmates. You have your own Zoom account, so you can connect virtually to discuss the course!
