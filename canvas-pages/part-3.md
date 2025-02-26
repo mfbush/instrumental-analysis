@@ -31,8 +31,13 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
-- [Notebook]
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 ### Post-Class Materials
+- 20A: Molecular Mass Spectra
+- 20B-1: Electron Ionization
+- 20B-4: Desorption Sources, excluding Fast-Atom Bombardment
+- 20B-5: Atomspheric Pressure Ionization Methods, only electrospray ionization
+- Notes on mass analyzers and detectors.
 ### Professional in the Field - Prof. Abraham Badu-Tawiah
 - [Prof. Abraham Badu-Tawiah](https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/), Ohio State University, focused on the early diagnosis of disease using mass spectrometry.
 - [Interview](http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2) in the *Journal of the American Society for Mass Spectrometry*.
