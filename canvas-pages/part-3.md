@@ -1,33 +1,38 @@
-- [Molecular Mass Spectrometry](#molecular-mass-spectrometry)
+- [Molecular Mass Spectrometry - Part 1](#molecular-mass-spectrometry---part-1)
   - [Learning Objectives](#learning-objectives)
   - [In-Class Materials](#in-class-materials)
   - [Post-Class Materials](#post-class-materials)
   - [Professional in the Field - Prof. Abraham Badu-Tawiah](#professional-in-the-field---prof-abraham-badu-tawiah)
-- [Introduction to Chemical Separations](#introduction-to-chemical-separations)
+- [Molecular Mass Spectrometry - Part 2](#molecular-mass-spectrometry---part-2)
   - [Learning Objectives](#learning-objectives-1)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
-  - [Professional in the Field - Prof. Michelle Khine](#professional-in-the-field---prof-michelle-khine)
-- [Gas Chromatography](#gas-chromatography)
+  - [Professional in the Field - Livia Eberlin](#professional-in-the-field---livia-eberlin)
+- [Introduction to Chemical Separations](#introduction-to-chemical-separations)
   - [Learning Objectives](#learning-objectives-2)
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
-  - [Professional in the Field](#professional-in-the-field)
-- [High-Performance Liquid Chromatography](#high-performance-liquid-chromatography)
+  - [Professional in the Field - Prof. Michelle Khine](#professional-in-the-field---prof-michelle-khine)
+- [Gas Chromatography](#gas-chromatography)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
-  - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
-- [Hybrid Chromatography / Mass Spectrometry Experiments](#hybrid-chromatography--mass-spectrometry-experiments)
+  - [Professional in the Field](#professional-in-the-field)
+- [High-Performance Liquid Chromatography](#high-performance-liquid-chromatography)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
+  - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
+- [Hybrid Chromatography / Mass Spectrometry Experiments](#hybrid-chromatography--mass-spectrometry-experiments)
+  - [Learning Objectives](#learning-objectives-5)
+  - [In-Class Materials](#in-class-materials-5)
+  - [Post-Class Materials](#post-class-materials-5)
   - [Professional in the Field](#professional-in-the-field-1)
 - [Exam #3](#exam-3)
   - [What to Expect](#what-to-expect)
   - [What to Bring to the Exam](#what-to-bring-to-the-exam)
 
-## Molecular Mass Spectrometry
+## Molecular Mass Spectrometry - Part 1
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
@@ -42,6 +47,18 @@
 - [Prof. Abraham Badu-Tawiah](https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/), Ohio State University, focused on the early diagnosis of disease using mass spectrometry.
 - [Interview](http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2) in the *Journal of the American Society for Mass Spectrometry*.
 - [Video research profile](https://youtu.be/NG2vdK-UTxU?si=j0TYttRxCsb6-1mC). 
+
+## Molecular Mass Spectrometry - Part 2
+### Learning Objectives
+*At the conclusion of in-class and outside learning, participants will be able to:*
+### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
+- [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
+### Post-Class Materials
+- Notes on mass analyzers and detectors.
+### Professional in the Field - Livia Eberlin
+- [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
+- [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
 
 ## Introduction to Chemical Separations
 ### Learning Objectives
