@@ -69,6 +69,7 @@
 - Using principles from chromatography and general chemistry, assign the key features of a chromatogram.
 - Determine values for retention time, void time, retention factor, selectivity factor, and resolution from a chromatogram.
 ### In-Class Materials
+- [notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/chromatography-introduction.ipynb)
 ### Post-Class Materials
 ### Professional in the Field - Prof. Michelle Khine
 - [Prof. Michelle Khine](https://engineering.uci.edu/users/michelle-khine), University of California, Irvine, develops "microfabricated polymeric devices for cellular manipulation and analyses." She also "spun out a company, Fluxion Biosciences (San Francisco), based on her dissertation work of single-cell electroporation.
