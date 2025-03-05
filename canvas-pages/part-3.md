@@ -13,20 +13,16 @@
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
   - [Professional in the Field - Prof. Michelle Khine](#professional-in-the-field---prof-michelle-khine)
-- [Gas Chromatography](#gas-chromatography)
+- [Gas Chromatography/Mass Spectrometry](#gas-chromatographymass-spectrometry)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
   - [Professional in the Field](#professional-in-the-field)
-- [High-Performance Liquid Chromatography](#high-performance-liquid-chromatography)
+  - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
+- [Liquid Chromatography / Mass Spectrometry](#liquid-chromatography--mass-spectrometry)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
-  - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
-- [Hybrid Chromatography / Mass Spectrometry Experiments](#hybrid-chromatography--mass-spectrometry-experiments)
-  - [Learning Objectives](#learning-objectives-5)
-  - [In-Class Materials](#in-class-materials-5)
-  - [Post-Class Materials](#post-class-materials-5)
   - [Professional in the Field](#professional-in-the-field-1)
 - [Exam #3](#exam-3)
   - [What to Expect](#what-to-expect)
@@ -75,23 +71,18 @@
 - [Prof. Michelle Khine](https://engineering.uci.edu/users/michelle-khine), University of California, Irvine, develops "microfabricated polymeric devices for cellular manipulation and analyses." She also "spun out a company, Fluxion Biosciences (San Francisco), based on her dissertation work of single-cell electroporation.
 - [Profile in Forbes](https://www.forbes.com/sites/sallypercy/2018/03/22/scientist-and-innovator-dr-michelle-khine-growing-up-nobody-thought-i-was-smart/?sh=b35ef1164eed)
 
-## Gas Chromatography
+## Gas Chromatography/Mass Spectrometry
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/gcms.ipynb)
 ### Post-Class Materials
 ### Professional in the Field
-
-## High-Performance Liquid Chromatography
-### Learning Objectives
-*At the conclusion of in-class and outside learning, participants will be able to:*
-### In-Class Materials
-### Post-Class Materials
 ### Professional in the Field - Prof. Isiah Warner
 - [Prof. Isiah Warner](https://faculty.lsu.edu/iwarner/), Louisiana State University (and UW Chemistry Alumnus!) 
 - [ACS Video Profile](https://youtu.be/AFUmN__aHCE?si=t4vDgVLy2NZ8np8w)
 
-## Hybrid Chromatography / Mass Spectrometry Experiments
+## Liquid Chromatography / Mass Spectrometry
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
