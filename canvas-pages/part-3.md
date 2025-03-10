@@ -90,8 +90,14 @@
 ## Liquid Chromatography / Mass Spectrometry
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Explain the fundamental principles of liquid chromatography and mass spectrometry as individual techniques and how they complement each other when combined.
+- Compare and constrast a triple quadrupole mass spectrometer and a quadrupole - time-of-flight mass spectrometer in the context of LC-MS.
+- Describe the key components of a LC-MS instrument, including injection systems, columns, interfaces, ionization sources, mass analyzers, and detectors.
+- Describe the process of using reaction monitoring and data-dependent acquisition for LC-MS.
+- Evaluate the advantages, limitations, and appropriate applications of LC-MS compared to other analytical techniques.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/lc-ms.ipynb)
+- [Activity](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131886267)
 ### Post-Class Materials
 ### Professional in the Field
 - [Prof. Erin Baker](https://chem.unc.edu/faculty/baker-erin/), University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.
