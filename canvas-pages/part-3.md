@@ -97,7 +97,7 @@
 - Evaluate the advantages, limitations, and appropriate applications of LC-MS compared to other analytical techniques.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/lc-ms.ipynb)
-- [Activity](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131886267)
+- [Activity](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131886825) | [Solutions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131896570)
 ### Post-Class Materials
 ### Professional in the Field
 - [Prof. Erin Baker](https://chem.unc.edu/faculty/baker-erin/), University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.
