@@ -74,6 +74,11 @@
 ## Gas Chromatography/Mass Spectrometry
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
+- Explain the fundamental principles of gas chromatography and mass spectrometry as individual techniques and how they complement each other when combined.
+- Compare and constrast a quadrupole mass filter and a time-of-flight mass analyzer in the context of GC-MS.
+- Describe the key components of a GC-MS instrument, including injection systems, columns, interfaces, ionization sources, mass analyzers, and detectors.
+- Describe the process of using a spectral library for qualitative applications of GC-MS.
+- Evaluate the advantages, limitations, and appropriate applications of GC-MS compared to other analytical techniques.
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/gcms.ipynb)
 ### Post-Class Materials
@@ -86,6 +91,7 @@
 ### Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
 ### In-Class Materials
+- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/lc-ms.ipynb)
 ### Post-Class Materials
 ### Professional in the Field
 - [Prof. Erin Baker](https://chem.unc.edu/faculty/baker-erin/), University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.
