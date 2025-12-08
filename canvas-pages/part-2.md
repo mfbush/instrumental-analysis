@@ -38,8 +38,8 @@
 - Describe the properties and components of a monochromator.
 - Compare and contrast photodiodes and photomultiplier tubes.
 ### In-Class Materials
-- [Slides](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164285)
-- [Notes](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=130164290)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=130164285)
+- [Notes](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=130164290)
 ### Post-Class Materials
 - 7A: General Designs of Optical Instruments
 - 7B: Sources of Radiation

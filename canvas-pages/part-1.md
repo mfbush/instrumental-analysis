@@ -39,9 +39,8 @@
 ### In-Class Materials
 - [Jupyter Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/signals-and-noise.ipynb)
 ### Post-Class Materials
-- 1D-2: External Standard Calibration
-- 1E: Selecting an Analytical Method
-- 5A: Signal-to-Noise Ratio
+- [Calibration of Instrumental Methods](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/01%3A_Introduction/1.05%3A_Calibration_of_Instrumental_Methods)
+- [The Signal-to-Noise Ratio](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.01%3A_The_Signal-to-Noise_Ratio)
 - Suggested problems in book: 1-8, 1-10, 5-6, 5-7
 ### Professional in the Field - Susan Richardson
 - [Prof. Susan Richardson](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/richardson_susan.php), University of South Carolina, was recently elected to the National Academy of Engineers for developing "methods to measure disinfection byproducts and other contaminants in water and advancing their use in treatment and risk assessment."

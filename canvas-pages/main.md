@@ -17,15 +17,15 @@ Welcome to Instrumental Analysis (CHEM 426/526)! As a [practicing mass spectrome
 
 ### Classroom-Associated Learning
 These pages include everything that you'll learn in and out of the classroom, excluding lab.
-- [First Third](https://canvas.uw.edu/courses/1778379/pages/classroom-part-1)
-- [Second Third](https://canvas.uw.edu/courses/1778379/pages/classroom-part-2)
-- [Third Third](https://canvas.uw.edu/courses/1778379/pages/classroom-part-3)
+- [First Third](https://canvas.uw.edu/courses/1861822/pages/classroom-part-1)
+- [Second Third](https://canvas.uw.edu/courses/1861822/pages/classroom-part-2)
+- [Third Third](https://canvas.uw.edu/courses/1861822/pages/classroom-part-3)
 
 ### Lab-Associated Learning
-- [Materials for all lab activities](https://canvas.uw.edu/courses/1778379/pages/lab-activities)
+- Materials for all lab activities
 
 ### Textbook
-- Suggesting reading and problems will be from *Principles of Instrumental Analysis*, Seventh Edition, by Skoog, Holler, and Crouch.
+- Suggesting reading and problems will be from [Instrumental Analysis](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)) by David Harvey. This open educational resoruce is available from Libretext.
   
 ## Course-Level Learning Objectives
 Instrumental Analysis introduces students to modern instrumental methods of chemical analysis. Semiweekly lectures will cover topics including the principles of operation of the major classes of chemical instrumentation, figures of merit for evaluating chemical measurements, and using data from chemical measurements to inform decisions. Weekly laboratory projects will train students to operate modern instruments:
@@ -44,4 +44,6 @@ The learning objectives and activities for this course were developed with the f
 
 ## Course Policies and Resources
 
-- [Course Polices and Resources](https://canvas.uw.edu/courses/1778379/pages/policies-and-resources). This page includes general course policies and more specific policies, including those related to grading, communicating with the instructional team, and lab.
+- [Course Polices and Resources](https://canvas.uw.edu/courses/1861822/pages/policies-and-resources). This page includes general course policies and more specific policies, including those related to grading, communicating with the instructional team, and lab.
+
+[def]: https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)
