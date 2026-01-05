@@ -2,6 +2,8 @@
   - [Learning Objectives](#learning-objectives)
   - [In-Class Materials](#in-class-materials)
   - [Post-Class Materials](#post-class-materials)
+    - [Reading](#reading)
+    - [Suggested problems:](#suggested-problems)
   - [Professional in the Field - Susan Richardson](#professional-in-the-field---susan-richardson)
 - [Transducers, Electrical Components, and Circuits](#transducers-electrical-components-and-circuits)
   - [Learning Objectives](#learning-objectives-1)
@@ -39,9 +41,11 @@
 ### In-Class Materials
 - [Jupyter Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/signals-and-noise.ipynb)
 ### Post-Class Materials
-- [Calibration of Instrumental Methods](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/01%3A_Introduction/1.05%3A_Calibration_of_Instrumental_Methods)
+#### Reading
+- [Calibration of Instrumental Methods](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/01%3A_Introduction/1.05%3A_Calibration_of_Instrumental_Methods), excluding the Standard Addition Metho and Internal Standard.
 - [The Signal-to-Noise Ratio](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.01%3A_The_Signal-to-Noise_Ratio)
-- Suggested problems in book: 1-8, 1-10, 5-6, 5-7
+#### Suggested problems: 
+- Will update tomorrow.
 ### Professional in the Field - Susan Richardson
 - [Prof. Susan Richardson](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/richardson_susan.php), University of South Carolina, was recently elected to the National Academy of Engineers for developing "methods to measure disinfection byproducts and other contaminants in water and advancing their use in treatment and risk assessment."
 - [Short video describing her research.](https://youtu.be/w6L71FA9tAg?si=SjP2ogs1YfZx5NB7)

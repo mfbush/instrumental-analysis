@@ -13,7 +13,7 @@ Welcome to Instrumental Analysis (CHEM 426/526)! As a [practicing mass spectrome
 ## Course Materials
 
 ### Course Calendar
-- The course uses the [calendar](../../calendar) that is built into Canvas.
+- The course uses the [syllabus](https://canvas.uw.edu/courses/1861822/assignments/syllabus) and [calendar](../../calendar) that are built into Canvas.
 
 ### Classroom-Associated Learning
 These pages include everything that you'll learn in and out of the classroom, excluding lab.
@@ -25,7 +25,7 @@ These pages include everything that you'll learn in and out of the classroom, ex
 - Materials for all lab activities
 
 ### Textbook
-- Suggesting reading and problems will be from [Instrumental Analysis](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)) by David Harvey. This open educational resoruce is available from Libretext.
+- Suggesting reading and problems will be from [Instrumental Analysis](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)) by David Harvey. This open educational resource is available from Libretext at no cost.
   
 ## Course-Level Learning Objectives
 Instrumental Analysis introduces students to modern instrumental methods of chemical analysis. Semiweekly lectures will cover topics including the principles of operation of the major classes of chemical instrumentation, figures of merit for evaluating chemical measurements, and using data from chemical measurements to inform decisions. Weekly laboratory projects will train students to operate modern instruments:
