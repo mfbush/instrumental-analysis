@@ -9,6 +9,8 @@
   - [Learning Objectives](#learning-objectives-1)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
+    - [Reading](#reading-1)
+    - [Suggested Problems](#suggested-problems-1)
   - [Professional in the Field - Nancy Allbritton](#professional-in-the-field---nancy-allbritton)
 - [Operational Amplifiers](#operational-amplifiers)
   - [Learning Objectives](#learning-objectives-2)
@@ -45,7 +47,7 @@
 - [Calibration of Instrumental Methods](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/01%3A_Introduction/1.05%3A_Calibration_of_Instrumental_Methods), excluding the Standard Addition Metho and Internal Standard.
 - [The Signal-to-Noise Ratio](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.01%3A_The_Signal-to-Noise_Ratio)
 #### Suggested problems: 
-- Will update tomorrow.
+- [Calibration Activity](https://canvas.uw.edu/courses/1861822/files?preview=143670254)
 ### Professional in the Field - Susan Richardson
 - [Prof. Susan Richardson](https://sc.edu/study/colleges_schools/chemistry_and_biochemistry/our_people/directory/richardson_susan.php), University of South Carolina, was recently elected to the National Academy of Engineers for developing "methods to measure disinfection byproducts and other contaminants in water and advancing their use in treatment and risk assessment."
 - [Short video describing her research.](https://youtu.be/w6L71FA9tAg?si=SjP2ogs1YfZx5NB7)
@@ -64,9 +66,13 @@
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/transducers.ipynb)
 ### Post-Class Materials
-- 1C: Instruments for Analysis
-- 2A: Direct Current Circuits and Measurements
-- 2B: Alternating Current Circuits
+#### Reading
+- [Instruments for Analysis](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/01%3A_Introduction/1.03%3A_Instruments_For_Analysis)
+- [Basic Terminology and Laws of Electricity](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/02%3A_Electrical_Components_and_Circuits/2.01%3A_Basic_Terminology_and_Laws_of_Electricity)
+- [Direct Current (DC) Circuits](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/02%3A_Electrical_Components_and_Circuits/2.02%3A_Direct_Current_Circuits_and_Measurements)
+- [Alternating Current Circuits](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/02%3A_Electrical_Components_and_Circuits/2.03%3A_Alternating_Current_Circuits)
+#### Suggested Problems
+*Need to update.*
 - Suggest problems in the book: 2-1, 2-6, 2-10, 2-14, 2-15. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-transducers.ipynb).
 ### Professional in the Field - Nancy Allbritton
 - [Prof. Nancy Allbritton](https://bioe.uw.edu/portfolio-items/nancy-allbritton/), University of Washington, was recently elected to the National Academy of Engineers for "innovation and commercialization of single-cell, analytical, and gut-on-chip technologies for drug screening and for engineering education."
