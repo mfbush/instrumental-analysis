@@ -22,7 +22,7 @@ These pages include everything that you'll learn in and out of the classroom, ex
 - [Third Third](https://canvas.uw.edu/courses/1861822/pages/classroom-part-3)
 
 ### Lab-Associated Learning
-- Materials for all lab activities
+- Materials for all [lab activities](https://canvas.uw.edu/courses/1861822/pages/lab-activities)
 
 ### Textbook
 - Suggesting reading and problems will be from [Instrumental Analysis](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)) by David Harvey. This open educational resource is available from Libretext at no cost.
