@@ -16,11 +16,14 @@
   - [Learning Objectives](#learning-objectives-2)
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
+    - [Reading](#reading-2)
+    - [Suggested Problems](#suggested-problems-2)
   - [Professional in the Field - Ben Garcia](#professional-in-the-field---ben-garcia)
 - [Analog and Digital Data](#analog-and-digital-data)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
+    - [Suggested Problems](#suggested-problems-3)
   - [Professional in the Field - Candice Ulmer](#professional-in-the-field---candice-ulmer)
 - [Electroanalytical Methods](#electroanalytical-methods)
   - [Learning Objectives](#learning-objectives-4)
@@ -72,8 +75,7 @@
 - [Direct Current (DC) Circuits](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/02%3A_Electrical_Components_and_Circuits/2.02%3A_Direct_Current_Circuits_and_Measurements)
 - [Alternating Current Circuits](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/02%3A_Electrical_Components_and_Circuits/2.03%3A_Alternating_Current_Circuits)
 #### Suggested Problems
-*Need to update.*
-- Suggest problems in the book: 2-1, 2-6, 2-10, 2-14, 2-15. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-transducers.ipynb).
+- [Suggested Problems and Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-transducers.ipynb).
 ### Professional in the Field - Nancy Allbritton
 - [Prof. Nancy Allbritton](https://bioe.uw.edu/portfolio-items/nancy-allbritton/), University of Washington, was recently elected to the National Academy of Engineers for "innovation and commercialization of single-cell, analytical, and gut-on-chip technologies for drug screening and for engineering education."
 - [Interview with Nancy Allbritton.](https://www.engr.washington.edu/news/article/2019-10-01/meet-nancy-allbritton)
@@ -87,10 +89,12 @@
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/opamps.ipynb)
 ### Post-Class Materials
-- 3A: Properties of Operational Amplifiers
-- 3B: Operational Amplifier Circuits
-- 3C: Amplification and Measurement of Transducer Signals, excluding 3C-4.
-- Suggested problems: 3-1, 3-4, and Example 3-1. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-opamps.ipynb).
+#### Reading
+- [Operational Amplifiers](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/03%3A_Operational_Amplifiers_in_Chemical_Instrumentation_(TBD)/3.01%3A_Properties_of_Operational_Amplifiers)
+- [Operational Amplifier Circuits](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/03%3A_Operational_Amplifiers_in_Chemical_Instrumentation_(TBD)/3.02%3A_Operational_Amplifier_Circuits)
+- [Amplification and Measurement Signals](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/03%3A_Operational_Amplifiers_in_Chemical_Instrumentation_(TBD)/3.03%3A_Amplification_and_Measurement_of_Signals), excluding Comparison of Transducer Outputs.
+#### Suggested Problems
+- [Suggested Problems and Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-opamps.ipynb).
 ### Professional in the Field - Ben Garcia
 - [Prof. Ben Garcia](https://www.bengarcialab.com/about-the-pi/), Washington University in St. Louis, "focused on developing novel mass spectrometry based approaches and computation for interrogating protein modifications, especially those involved in epigenetic mechanisms."
 - [Profile in the Journal of the American Society for Mass Spectrometry](https://pubs.acs.org/doi/10.1021/jasms.3c00407)
@@ -107,9 +111,10 @@
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/analog-and-digital-data.ipynb)
 ### Post-Class Materials
-- 4A: Analog and Digital Signals
-- 4B: Counting with Arithmetic with Binary Numbers
-- 4C: Basic Digital Circuits
+- [Analog and Digital Data](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.01%3A_Analog_and_Digital_Signals)
+- [Working With Binary Numbers](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.02%3A_Working_With_Binary_Numbers)
+#### Suggested Problems
+*Need to update.*
 - Suggested Problems: 4-1, 4-2, 4-3, 4-7, 4-8, 4-9, 4-11, 4-12. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-analog-and-digital-data.ipynb).
 ### Professional in the Field - Candice Ulmer
 - [Dr. Candice Ulmer](https://www.linkedin.com/in/candice-z-ulmer-holland-ph-d-40851453) is a Supervisory Chemist Branch Chief for the US Department of Agriculture, where see oversees the use of chemical instrumentation for: [1] chemical residue detection in animals presented for slaughter, [2] food chemistry, and [3] nutritional impact." Previously, she was a clinical chemist for the Centers for Disease Control.
