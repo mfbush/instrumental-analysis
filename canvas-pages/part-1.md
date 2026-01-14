@@ -114,8 +114,7 @@
 - [Analog and Digital Data](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.01%3A_Analog_and_Digital_Signals)
 - [Working With Binary Numbers](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.02%3A_Working_With_Binary_Numbers)
 #### Suggested Problems
-*Need to update.*
-- Suggested Problems: 4-1, 4-2, 4-3, 4-7, 4-8, 4-9, 4-11, 4-12. [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-analog-and-digital-data.ipynb).
+- [Suggested Problems and Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/sp-analog-and-digital-data.ipynb).
 ### Professional in the Field - Candice Ulmer
 - [Dr. Candice Ulmer](https://www.linkedin.com/in/candice-z-ulmer-holland-ph-d-40851453) is a Supervisory Chemist Branch Chief for the US Department of Agriculture, where see oversees the use of chemical instrumentation for: [1] chemical residue detection in animals presented for slaughter, [2] food chemistry, and [3] nutritional impact." Previously, she was a clinical chemist for the Centers for Disease Control.
 - [Career Ladder](https://cen.acs.org/careers/women-in-science/Career-Ladder-Candice-Z-Ulmer-Holland/101/i5 )
