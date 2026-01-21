@@ -29,10 +29,13 @@
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
+    - [Suggested Reading](#suggested-reading)
+    - [Suggested Problems](#suggested-problems-4)
   - [Professional in the Field - Joaquín Rodríguez-López](#professional-in-the-field---joaquín-rodríguez-lópez)
 - [Exam #1](#exam-1)
   - [What to Expect](#what-to-expect)
   - [What to Bring to the Exam](#what-to-bring-to-the-exam)
+  - [Practice Exam](#practice-exam)
 
 ## Analytes, Signals, and Noise
 ### Learning Objectives
@@ -126,10 +129,12 @@
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/electroanalytical-methods.ipynb)
 ### Post-Class Materials
-- 22A-1: Conduction in Cell
-- 25A: Excitation Signals in Voltammetry
-- 25B: Voltammetric Instrumentation
-- 25D: Cyclic Voltammetry
+#### Suggested Reading
+- [Potential Excitation Signals](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/25%3A_Voltammetry/25.01%3A_Excitation_Signals_in_Voltammetry)
+- [Voltammetric Instrumentation](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/25%3A_Voltammetry/25.02%3A_Voltammetric_Instrumentation)
+- [Linear Sweep Voltametry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/25%3A_Voltammetry/25.03%3A_Hydrodynamic_Voltammetry)
+- [Cyclic Voltagmetry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/25%3A_Voltammetry/25.04%3A_Cyclic_Voltammetry)
+#### Suggested Problems
 - Suggested problems: 25-4, 25-9, 25-10
 ### Professional in the Field - Joaquín Rodríguez-López
 - [Prof. Joaquín Rodríguez-López](https://chemistry.illinois.edu/joaquinr), University of Illinois, "focuses on characterizing heterogeneous electrode materials for elucidating their function and generating new strategies to advance electrochemical energy technologies and sensing."
@@ -143,3 +148,6 @@
 ### What to Bring to the Exam
 - Calculator. Anything readily recognizable as a scientific or graphing calculator. No QWERTY keyboard. Not able to connect to the internet.
 - 3"x5" note card, with notes on both sides. Must turn in note card with exam.
+### Practice Exam
+- [Exam #1 from 2025](https://canvas.uw.edu/courses/1861822/files?preview=144468315)
+- [Key to Exam #1 from 2025](https://canvas.uw.edu/courses/1861822/files?preview=144468415)
