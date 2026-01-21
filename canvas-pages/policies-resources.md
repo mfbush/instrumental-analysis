@@ -19,7 +19,6 @@
 ### Our Inclusive Learning Environment
 Diverse backgrounds, embodiments, and experiences are essential to the critical thinking endeavor at the heart of university education. Therefore, I expect you to follow the [UW Student Conduct Code](https://www.washington.edu/admin/rules/policies/WAC/478-120-024.html) in your interactions with your colleagues and me in this course by respecting the many social and cultural differences among us, which may include, but are not limited to: age, cultural background, disability, ethnicity, family status, gender identity and presentation, citizenship and immigration status, national origin, race, religious and political beliefs, sex, sexual orientation, socioeconomic status, and veteran status. Please talk with me right away if you experience or observe disrespect in this class, and I will work to address it with you. 
 More information and support resources on campus (in no particular order):
-- [A safe and welcoming place for all](http://www.washington.edu/president/2016/11/17/safe-welcoming/), a message from President Ana Mari Cauce
 - [Husky Health and Well-being](https://wellbeing.uw.edu/): all of UW-Seattle's health services in one place
 - [Office of Minority Affairs & Diversity](http://engage.washington.edu/site/R?i=CAhslkIHbL6iPy3RXhyaQg) works to increase and support diversity on our campus
 - [Disability Resources for Students](http://depts.washington.edu/uwdrs/) ensures access and inclusion for students with disabilities
