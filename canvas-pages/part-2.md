@@ -58,9 +58,10 @@
 - [Radiation Transducers](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.05%3A_Radiation_Transducers), only Introduction
 - [Instrumentation for Spectrophotometry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/13%3A_Introduction_to_Ultraviolet_Visible_Absorption_Spectrometry)
 #### Suggested Problems
-- Need to update: 7-2, 13-13, 13-14, 13-16, 13-17, 13-20, 13-21
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-optical-instruments.md)
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-optical-instruments-solutions.md)
 ### Professional in the Field - Livia Eberlin
-- [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
+- [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
 - [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
 
 ## UV-Vis Absorption Spectrometry
