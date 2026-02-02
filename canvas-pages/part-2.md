@@ -85,7 +85,8 @@
 - [Quantitative Analysis by Absorption Measurements](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/14%3A_Applications_of_Ultraviolet_Visible_Molecular_Absorption_Spectrometry/14.04%3A_Quantitative_Applications)
 - [Photometric Titrations](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/14%3A_Applications_of_Ultraviolet_Visible_Molecular_Absorption_Spectrometry/14.05%3A_Photometric_Titrations)
 #### Suggested Problems
-- Need to update. Example 13-1, 13-8, 13-9, 14-4, 14-8, 14-10
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-uv-vis.md)
+- [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-uv-vis-solutions.md)
 ### Professional in the Field
 
 ## Molecular Luminescence
