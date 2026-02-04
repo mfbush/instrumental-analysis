@@ -1,7 +1,7 @@
 # Solutions to Suggested Problems: Molecular Luminescence
 *Prof. Matthew F. Bush, University of Washington*
 
-## Question 2: Spectrofluorometry Instrumentation and Quantitative Analysis
+## Question 1: Spectrofluorometry Instrumentation and Quantitative Analysis
 
 ### a) Calibration Curve
 
@@ -101,7 +101,7 @@ $$S/N = \frac{\text{Fluorescence signal}}{\text{Background noise}}$$
 
 ---
 
-## Question 3: Luminescence Instrumentation and Techniques
+## Question 2: Luminescence Instrumentation and Techniques
 
 ### a) Spectrofluorometer Block Diagram
 
@@ -208,7 +208,7 @@ Light Source    ┌─────────────┐ │
 
 ---
 
-## Question 1: Luminescence Fundamentals and Jablonski Diagrams
+## Question 3: Luminescence Fundamentals and Jablonski Diagrams
 
 ### a) Jablonski Diagram
 
