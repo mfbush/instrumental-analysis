@@ -105,7 +105,8 @@
 - [Applications and Photoluminescence methods](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/15%3A_Molecular_Luminescence/15.03%3A_Applications_and_Photoluminescence_methods)
 - [Chemiluminscence](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/15%3A_Molecular_Luminescence/15.04%3A_Chemiluminscence)
 #### Suggested Problems
-- Need to update. 15-1, 15-3, 15-5, 15-7, 15-9, 15-10
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-luminescence.md)
+- [Solutions](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-luminescence-solutions.md)
 ### Professional in the Field - Prof. Christy Haynes
 - [Prof. Christy Haynes](https://cse.umn.edu/chem/christy-l-haynes), University of Minnesota, "studies pressing fundamental and applied problems in nanoscience, environmental science, and microbiology using a diverse set of analytical and materials techniques."
 - [Podcast](https://www.peoplebehindthescience.com/dr-christy-haynes/) "Tiny Technology with Big Impacts: Nanoparticles for Medicine, Energy, and the Environment"
