@@ -8,6 +8,9 @@
 - Based on the frequency of light and the mirror velocity, calculate the modulated frequency in the resulting interferogram.
 - List the advantages of FT-IR relative to IR using dispersive instruments.
 
+## Suggested Video
+- [Michelson Interferometer Video](https://youtu.be/j-u3IEgcTiQ?si=aJpeV-YyjuRYtxLl)
+
 ## Suggested Reading
 - [Fourier Transform Optical Spectroscopy](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.07%3A_Types_of_Optical_Instruments)
 - [Theory of Infrared Absorption Spectrometry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/16%3A_An_Introduction_to_Infrared_Spectrometry/16.01%3A_Theory_of_Infrared_Absorption_Spectrometry)
@@ -75,31 +78,6 @@ To absorb IR radiation, a molecular vibration must cause a change in the dipole 
 
 ---
 
-## Principles of Optical Interference
-
-Before understanding how a Michelson interferometer works, we need to understand the fundamental principle of **optical interference**.
-
-### Constructive and Destructive Interference
-
-When two electromagnetic waves overlap, they can interfere with each other:
-
-- **Constructive interference** occurs when waves are **in phase** (peaks align with peaks, troughs with troughs). The amplitudes add together, creating a wave with larger amplitude.
-
-- **Destructive interference** occurs when waves are **out of phase** (peaks align with troughs). The amplitudes cancel each other, creating a wave with smaller amplitude or no wave at all.
-
-The degree of interference depends on the **phase difference** between the two waves, which is determined by the **optical path difference**:
-
-$$\Delta = 2d$$
-
-where $d$ is the difference in physical distance traveled by the two beams.
-
-- When $\Delta = n\lambda$ (where $n = 0, 1, 2, ...$), the waves are in phase → **constructive interference**
-- When $\Delta = (n + \frac{1}{2})\lambda$, the waves are out of phase → **destructive interference**
-
-This principle of interference is what makes the Michelson interferometer work.
-
----
-
 ## Instrumental Approaches to Infrared Spectroscopy
 
 Infrared spectrometers can be classified into three main categories based on how they measure the spectrum:
@@ -124,6 +102,31 @@ Infrared spectrometers can be classified into three main categories based on how
 - Provides significant advantages over dispersive methods
 
 The remainder of this lecture focuses on **FT-IR instrumentation** because it has largely replaced dispersive IR in research and analytical laboratories. Understanding how FT-IR works and why it offers superior performance is essential for modern infrared spectroscopy.
+
+---
+
+## Principles of Optical Interference
+
+Before understanding how a Michelson interferometer works, we need to understand the fundamental principle of **optical interference**.
+
+### Constructive and Destructive Interference
+
+When two electromagnetic waves overlap, they can interfere with each other:
+
+- **Constructive interference** occurs when waves are **in phase** (peaks align with peaks, troughs with troughs). The amplitudes add together, creating a wave with larger amplitude.
+
+- **Destructive interference** occurs when waves are **out of phase** (peaks align with troughs). The amplitudes cancel each other, creating a wave with smaller amplitude or no wave at all.
+
+The degree of interference depends on the **phase difference** between the two waves, which is determined by the **optical path difference**:
+
+$$\Delta = 2d$$
+
+where $d$ is the difference in physical distance traveled by the two beams.
+
+- When $\Delta = n\lambda$ (where $n = 0, 1, 2, ...$), the waves are in phase → **constructive interference**
+- When $\Delta = (n + \frac{1}{2})\lambda$, the waves are out of phase → **destructive interference**
+
+This principle of interference is what makes the Michelson interferometer work.
 
 ---
 
