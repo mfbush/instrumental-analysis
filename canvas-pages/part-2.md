@@ -128,7 +128,8 @@
 - [Infrared Sources and Transducers](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/16%3A_An_Introduction_to_Infrared_Spectrometry/16.02%3A_Infrared_Sources_and_Transducers)
 - [Infrared Instruments](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/16%3A_An_Introduction_to_Infrared_Spectrometry/16.03%3A_Infrared_Instruments)
 #### Suggest Problems
-- Need to update: 7-22, 7-23, 16-5, 16-9, 16-14
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-ir-fundamentals.md)
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-ir-fundamentals-solutions.md)
 ### Professional in the Field
 
 ## Infrared Spectroscopy - Applications
