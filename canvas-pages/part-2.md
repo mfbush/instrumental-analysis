@@ -150,7 +150,8 @@
 - [Mid-IR Reflection Spectrometry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/17%3A_Applications_of_Infrared_Spectrometry/17.02%3A_Mid-Infrared_Reflection_Spectrometry)
 - [Near-IR Spectroscopy](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/17%3A_Applications_of_Infrared_Spectrometry/17.03%3A_Near_Far_IR)
 #### Suggested Problems
-- Need to update: 17-6, 17-9, 17-10
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-ir-applications.md)
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-ir-applications-solutions.md)
 ### Professional in the Field
 - [Prof. Bhavya Sharma](https://chem.utk.edu/people/bhavya-sharma/), University of Tennessee, uses "innovative Raman spectroscopic methods to create new approaches for early detection of disease (both in vitro and in vivo detection), as well as methods for chemical and biological sensing."
 - [Interview](https://www.spectroscopyonline.com/view/exploring-neurochemistry-using-raman-spectroscopy) in recognition of the 2021 Emerging Leader in Molecular Spectroscopy Award.
