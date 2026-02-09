@@ -120,7 +120,8 @@
 - Based on the frequency of light and the mirror velocity, calculate the modulated frequency in the resulting interferogram.
 - List the advantages of FT-IR relative to IR using dispersive instruments.
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-fundamentals.ipynb)
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-fundamentals.md)
+- [Michelson Interferometer Video](https://youtu.be/j-u3IEgcTiQ?si=aJpeV-YyjuRYtxLl)
 ### Post-Class Materials
 #### Suggested Reading
 - [Fourier Transform Optical Spectroscopy](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.07%3A_Types_of_Optical_Instruments)
