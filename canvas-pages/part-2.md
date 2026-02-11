@@ -143,7 +143,7 @@
 - Describe the mechanism in reflectance IR, ATR, and CRDS.
 - Compare and contrast CLS, PLS, and PLA analysis.
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-applications.ipynb)
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/IR-applications.md)
 ### Post-Class Materials
 #### Suggested Reading
 - [Mid-IR Absorption Spectrometry](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/17%3A_Applications_of_Infrared_Spectrometry/17.01%3A_Mid-Infrared_Absorption_Spectometry)
