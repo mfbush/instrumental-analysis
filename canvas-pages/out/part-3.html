@@ -2,7 +2,7 @@
         <html>
         <head>
             <meta charset="UTF-8">
-            <title>Molecular Mass Spectrometry - Part 1</title>
+            <title>What Mass Spectrometry Measures and How Ions Are Made</title>
             <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
@@ -139,19 +139,39 @@
         </head>
         <body class="vscode-body vscode-light">
             <ul>
-<li><a href="#molecular-mass-spectrometry---part-1">Molecular Mass Spectrometry - Part 1</a>
+<li><a href="#what-mass-spectrometry-measures-and-how-ions-are-made">What Mass Spectrometry Measures and How Ions Are Made</a>
 <ul>
-<li><a href="#learning-objectives">Learning Objectives</a></li>
+<li><a href="#learning-objectives">Learning Objectives</a>
+<ul>
+<li><a href="#instrument-architecture">Instrument Architecture</a></li>
+<li><a href="#mass-and-isotopes">Mass and Isotopes</a></li>
+<li><a href="#ionization-sources">Ionization Sources</a></li>
+</ul>
+</li>
 <li><a href="#in-class-materials">In-Class Materials</a></li>
-<li><a href="#post-class-materials">Post-Class Materials</a></li>
+<li><a href="#post-class-materials">Post-Class Materials</a>
+<ul>
+<li><a href="#suggested-problems">Suggested Problems</a></li>
+</ul>
+</li>
 <li><a href="#professional-in-the-field---prof-abraham-badu-tawiah">Professional in the Field - Prof. Abraham Badu-Tawiah</a></li>
 </ul>
 </li>
-<li><a href="#molecular-mass-spectrometry---part-2">Molecular Mass Spectrometry - Part 2</a>
+<li><a href="#how-mass-spectrometers-work-and-what-experiments-they-enable">How Mass Spectrometers Work and What Experiments They Enable</a>
 <ul>
-<li><a href="#learning-objectives-1">Learning Objectives</a></li>
+<li><a href="#learning-objectives-1">Learning Objectives</a>
+<ul>
+<li><a href="#mass-analyzers-and-detectors">Mass Analyzers and Detectors</a></li>
+<li><a href="#figures-of-merit">Figures of Merit</a></li>
+<li><a href="#acquisition-modes-and-tandem-ms">Acquisition Modes and Tandem MS</a></li>
+</ul>
+</li>
 <li><a href="#in-class-materials-1">In-Class Materials</a></li>
-<li><a href="#post-class-materials-1">Post-Class Materials</a></li>
+<li><a href="#post-class-materials-1">Post-Class Materials</a>
+<ul>
+<li><a href="#suggested-problems-1">Suggested Problems</a></li>
+</ul>
+</li>
 <li><a href="#professional-in-the-field---livia-eberlin">Professional in the Field - Livia Eberlin</a></li>
 </ul>
 </li>
@@ -159,7 +179,11 @@
 <ul>
 <li><a href="#learning-objectives-2">Learning Objectives</a></li>
 <li><a href="#in-class-materials-2">In-Class Materials</a></li>
-<li><a href="#post-class-materials-2">Post-Class Materials</a></li>
+<li><a href="#post-class-materials-2">Post-Class Materials</a>
+<ul>
+<li><a href="#suggested-problems-2">Suggested Problems</a></li>
+</ul>
+</li>
 <li><a href="#professional-in-the-field---prof-michelle-khine">Professional in the Field - Prof. Michelle Khine</a></li>
 </ul>
 </li>
@@ -167,7 +191,11 @@
 <ul>
 <li><a href="#learning-objectives-3">Learning Objectives</a></li>
 <li><a href="#in-class-materials-3">In-Class Materials</a></li>
-<li><a href="#post-class-materials-3">Post-Class Materials</a></li>
+<li><a href="#post-class-materials-3">Post-Class Materials</a>
+<ul>
+<li><a href="#suggested-problems-3">Suggested Problems</a></li>
+</ul>
+</li>
 <li><a href="#professional-in-the-field">Professional in the Field</a></li>
 <li><a href="#professional-in-the-field---prof-isiah-warner">Professional in the Field - Prof. Isiah Warner</a></li>
 </ul>
@@ -176,7 +204,11 @@
 <ul>
 <li><a href="#learning-objectives-4">Learning Objectives</a></li>
 <li><a href="#in-class-materials-4">In-Class Materials</a></li>
-<li><a href="#post-class-materials-4">Post-Class Materials</a></li>
+<li><a href="#post-class-materials-4">Post-Class Materials</a>
+<ul>
+<li><a href="#suggested-problems-4">Suggested Problems</a></li>
+</ul>
+</li>
 <li><a href="#professional-in-the-field-1">Professional in the Field</a></li>
 </ul>
 </li>
@@ -187,9 +219,25 @@
 </ul>
 </li>
 </ul>
-<h2 id="molecular-mass-spectrometry---part-1">Molecular Mass Spectrometry - Part 1</h2>
+<h2 id="what-mass-spectrometry-measures-and-how-ions-are-made">What Mass Spectrometry Measures and How Ions Are Made</h2>
 <h3 id="learning-objectives">Learning Objectives</h3>
-<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h4 id="instrument-architecture">Instrument Architecture</h4>
+<ol>
+<li>Draw a block diagram of a mass spectrometer, label the ion source, mass analyzer, and detector, and describe the function of each component.</li>
+<li>Interpret the axes of a mass spectrum and explain what the <em>m</em>/<em>z</em> ratio represents physically.</li>
+</ol>
+<h4 id="mass-and-isotopes">Mass and Isotopes</h4>
+<ol start="3">
+<li>Define nominal mass, monoisotopic mass, and average mass, and calculate each for a molecule or ion of given elemental composition.</li>
+<li>Predict how the isotope distribution of a mass spectrum changes with molecular size, and explain why the monoisotopic peak is not the most intense peak for large molecules such as glucagon.</li>
+<li>Distinguish between the <em>m</em>/<em>z</em> value measured by the instrument and the neutral mass of the analyte, and perform the conversion between the two.</li>
+</ol>
+<h4 id="ionization-sources">Ionization Sources</h4>
+<ol start="6">
+<li>Describe the mechanism of ion formation in electron ionization (EI), matrix-assisted laser desorption/ionization (MALDI), and electrospray ionization (ESI), and classify each as a hard or soft ionization technique.</li>
+<li>Compare EI, MALDI, and ESI with respect to the types of ions produced (e.g., radical cations, protonated molecules, multiply charged ions) and the analyte classes for which each is most appropriate.</li>
+<li>Calculate the neutral mass of an analyte from the <em>m</em>/<em>z</em> values of a multiply charged ESI ion series or from the m/z of a singly charged MALDI or EI ion.</li>
+</ol>
 <h3 id="in-class-materials">In-Class Materials</h3>
 <ul>
 <li><a href="https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb">Notebook</a></li>
@@ -202,15 +250,38 @@
 <li>20B-5: Atomspheric Pressure Ionization Methods, only electrospray ionization</li>
 <li>Notes on mass analyzers and detectors.</li>
 </ul>
+<h4 id="suggested-problems">Suggested Problems</h4>
+<ul>
+<li>Suggest Problems</li>
+<li>Solutions to Suggest Problems</li>
+</ul>
 <h3 id="professional-in-the-field---prof-abraham-badu-tawiah">Professional in the Field - Prof. Abraham Badu-Tawiah</h3>
 <ul>
 <li><a href="https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/">Prof. Abraham Badu-Tawiah</a>, Ohio State University, focused on the early diagnosis of disease using mass spectrometry.</li>
 <li><a href="http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2">Interview</a> in the <em>Journal of the American Society for Mass Spectrometry</em>.</li>
 <li><a href="https://youtu.be/NG2vdK-UTxU?si=j0TYttRxCsb6-1mC">Video research profile</a>.</li>
 </ul>
-<h2 id="molecular-mass-spectrometry---part-2">Molecular Mass Spectrometry - Part 2</h2>
+<h2 id="how-mass-spectrometers-work-and-what-experiments-they-enable">How Mass Spectrometers Work and What Experiments They Enable</h2>
 <h3 id="learning-objectives-1">Learning Objectives</h3>
-<p><em>At the conclusion of in-class and outside learning, participants will be able to:</em></p>
+<h4 id="mass-analyzers-and-detectors">Mass Analyzers and Detectors</h4>
+<ol start="9">
+<li>Explain the operating principle of a quadrupole mass filter, including the roles of the RF and DC voltages in establishing a stability window that transmits a narrow range of m/z values.</li>
+<li>Explain the operating principle of a time-of-flight mass analyzer, including how differences in ion velocity after acceleration by a fixed potential result in the temporal separation of ions with different m/z values.</li>
+<li>Describe the operating principle of the Faraday cup, the discrete dynode electron multiplier, and the multichannel plate (MCP) detector, and explain why MCP detectors are preferred for time-of-flight instruments.</li>
+</ol>
+<h4 id="figures-of-merit">Figures of Merit</h4>
+<ol start="12">
+<li>Define resolving power and calculate it from a mass spectrum using the FWHM of a peak, and explain how the required resolving power depends on the analyte and the analytical question.</li>
+<li>Define mass accuracy in ppm, calculate it from measured and expected m/z values, and explain why high mass accuracy is required to distinguish isobaric species such as peptides with similar elemental compositions.</li>
+<li>Compare the quadrupole mass filter, quadrupole ion trap, time-of-flight, and Fourier transform analyzers with respect to resolving power, mass accuracy, and whether they are scanning or multichannel instruments, and explain the analytical consequences of each design for sensitivity and acquisition speed.</li>
+</ol>
+<h4 id="acquisition-modes-and-tandem-ms">Acquisition Modes and Tandem MS</h4>
+<ol start="15">
+<li>Distinguish between full-scan and selected ion monitoring (SIM) acquisition on a quadrupole mass filter, and explain the tradeoff between spectral information content and sensitivity in each mode.</li>
+<li>Describe the configuration of a triple-quadrupole instrument (Q1–q2–Q3), explain the function of the collision cell, and identify the scan modes it enables: product ion scan, precursor ion scan, neutral loss scan, and multiple reaction monitoring (MRM).</li>
+<li>Explain why MRM is widely used for targeted quantitation in complex matrices, and describe the role of the precursor and product ion selections in providing specificity.
+Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time (e.g., quadrupole ion trap) approaches to MS/MS, and identify one advantage of each.</li>
+</ol>
 <h3 id="in-class-materials-1">In-Class Materials</h3>
 <ul>
 <li><a href="https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb">Notebook</a></li>
@@ -219,6 +290,11 @@
 <h3 id="post-class-materials-1">Post-Class Materials</h3>
 <ul>
 <li>Notes on mass analyzers and detectors.</li>
+</ul>
+<h4 id="suggested-problems-1">Suggested Problems</h4>
+<ul>
+<li>Suggest Problems</li>
+<li>Solutions to Suggest Problems</li>
 </ul>
 <h3 id="professional-in-the-field---livia-eberlin">Professional in the Field - Livia Eberlin</h3>
 <ul>
@@ -240,6 +316,11 @@
 <li><a href="https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/chromatography-introduction.ipynb">notebook</a></li>
 </ul>
 <h3 id="post-class-materials-2">Post-Class Materials</h3>
+<h4 id="suggested-problems-2">Suggested Problems</h4>
+<ul>
+<li>Suggest Problems</li>
+<li>Solutions to Suggest Problems</li>
+</ul>
 <h3 id="professional-in-the-field---prof-michelle-khine">Professional in the Field - Prof. Michelle Khine</h3>
 <ul>
 <li><a href="https://engineering.uci.edu/users/michelle-khine">Prof. Michelle Khine</a>, University of California, Irvine, develops &quot;microfabricated polymeric devices for cellular manipulation and analyses.&quot; She also &quot;spun out a company, Fluxion Biosciences (San Francisco), based on her dissertation work of single-cell electroporation.</li>
@@ -260,6 +341,11 @@
 <li><a href="https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/gcms.ipynb">Notebook</a></li>
 </ul>
 <h3 id="post-class-materials-3">Post-Class Materials</h3>
+<h4 id="suggested-problems-3">Suggested Problems</h4>
+<ul>
+<li>Suggest Problems</li>
+<li>Solutions to Suggest Problems</li>
+</ul>
 <h3 id="professional-in-the-field">Professional in the Field</h3>
 <h3 id="professional-in-the-field---prof-isiah-warner">Professional in the Field - Prof. Isiah Warner</h3>
 <ul>
@@ -282,6 +368,11 @@
 <li><a href="https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=131886825">Activity</a> | <a href="https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131896570">Solutions</a></li>
 </ul>
 <h3 id="post-class-materials-4">Post-Class Materials</h3>
+<h4 id="suggested-problems-4">Suggested Problems</h4>
+<ul>
+<li>Suggest Problems</li>
+<li>Solutions to Suggest Problems</li>
+</ul>
 <h3 id="professional-in-the-field-1">Professional in the Field</h3>
 <ul>
 <li><a href="https://chem.unc.edu/faculty/baker-erin/">Prof. Erin Baker</a>, University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.</li>
