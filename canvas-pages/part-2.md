@@ -47,8 +47,8 @@
 - Describe the properties and components of a monochromator.
 - Compare and contrast photodiodes and photomultiplier tubes.
 ### In-Class Materials
-- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=130164285)
-- [Notes](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=130164290)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=145799020)
+- [Notes](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=144790160)
 ### Post-Class Materials
 #### Suggested Reading
 - [General Designs of Optical Instruments](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.01%3A_General_Design_of_Optical_Instruments)
