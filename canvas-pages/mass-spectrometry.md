@@ -4,7 +4,7 @@
     - [1.2 Mass and Isotopes](#12-mass-and-isotopes)
       - [1.2.1 Three Definitions of Mass](#121-three-definitions-of-mass)
       - [1.2.2 Isotope Distributions](#122-isotope-distributions)
-      - [1.2.3 The Relationship Between *m/z* and Neutral Mass](#123-the-relationship-between-mz-and-neutral-mass)
+      - [1.2.3 The Relationship Between *m*/*z* and Neutral Mass](#123-the-relationship-between-mz-and-neutral-mass)
     - [1.3 Ionization Sources](#13-ionization-sources)
       - [1.3.1 Electron Ionization (EI)](#131-electron-ionization-ei)
       - [1.3.2 Matrix-Assisted Laser Desorption/Ionization (MALDI)](#132-matrix-assisted-laser-desorptionionization-maldi)
@@ -24,6 +24,7 @@
       - [2.3.2 The Triple Quadrupole and Tandem MS](#232-the-triple-quadrupole-and-tandem-ms)
       - [2.3.3 Multiple Reaction Monitoring](#233-multiple-reaction-monitoring)
       - [2.3.4 Tandem-in-Space Versus Tandem-in-Time](#234-tandem-in-space-versus-tandem-in-time)
+  - [Acknowledgements](#acknowledgements)
 
 # Mass Spectrometry
 
@@ -45,19 +46,23 @@ The chapter is organized around two themes. Part 1 asks: *what does a mass spect
 
 A mass spectrometer has three essential components: an **ion source**, a **mass analyzer**, and a **detector**. Figure 1 shows a generic block diagram.
 
-![Schematic diagram of a mass spectrometer showing ion source, mass analyzer, and detector](https://upload.wikimedia.org/wikipedia/commons/7/74/Mass_Spectrometer_Schematic.svg)
+![Schematic diagram of a mass spectrometer showing ion source, mass analyzer, and detector](./images/mass-spectrometry/16_ch20_Fig12.jpg)
 
-**Figure 1.** Block diagram of a mass spectrometer. All mass spectrometers include these three functional units; many instruments add additional stages of mass analysis or ion manipulation between them. (Adapted from a USGS original, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mass_Spectrometer_Schematic.svg), public domain.)
+**Figure 1a.** Block diagram of a simple mass spectrometer, which includes the ion source (generates gas-phase ions from the sample), the mass analyzer (filters or disperses ions on the basis of their *m*/*z* value), and the tranducer (usually referred to as the detector, which yields a signal based on the number or total charge of ions). Reproduced from Skoog, Figure 20-12. All mass spectrometers include these functional units; many instruments add additional stages of mass analysis or ion manipulation between them. 
 
 The **ion source** converts the analyte from its native state — a solution, a solid, or a gas — into gas-phase ions. This step is essential because the mass analyzer operates under high vacuum and manipulates ions using electric and magnetic fields.
 
-The **mass analyzer** separates or filters ions on the basis of their mass-to-charge ratio, *m/z*. The analyzer operates under high vacuum (typically $10^{-5}$ to $10^{-8}$ Torr depending on the type) to ensure that ions travel without colliding with residual gas molecules.
+The **mass analyzer** separates or filters ions on the basis of their mass-to-charge ratio, *m*/*z*. 
 
 The **detector** generates a measurable signal proportional to the number or total charge of ions arriving at a given time.
 
 The output of a mass spectrometer is a **mass spectrum**: a plot of detector signal intensity as a function of *m/z*. The *x*-axis reports the mass-to-charge ratio of detected ions; the *y*-axis reports signal intensity, typically normalized to the most intense peak, which is called the **base peak** and is set to 100%.
 
-The *m/z* ratio is the ion mass in unified atomic mass units (Da) divided by its charge number $z$, where $z$ is a dimensionless integer equal to the number of elementary charges carried by the ion. For a singly charged ion ($z = 1$), *m/z* numerically equals the ion mass. For a doubly charged ion ($z = 2$), *m/z* is half the ion mass.
+The *m*/*z* ratio is the ion mass in unified atomic mass units (Da) divided by its charge number *z*, where *z* is a dimensionless integer equal to the number of elementary charges carried by the ion. For a singly charged ion ($z = 1$), *m/z* numerically equals the mass of the ion. For a doubly charged ion ($z = 2$), *m*/*z* is half the mass of the ion.
+
+![A simplified mass spectrum with explainations of the axes.](./images/mass-spectrometry/generic-mass-spectrum.png)
+
+**Figure 1b.** The axes of a mass spectrum, explained.
 
 ---
 
@@ -111,7 +116,7 @@ For small molecules such as caffeine ($\text{C}_8\text{H}_{10}\text{N}_4\text{O}
 
 ![Simulated isotope distribution of caffeine showing the monoisotopic peak as most intense](https://upload.wikimedia.org/wikipedia/commons/d/d7/Caffeine_mass.gif)
 
-**Figure 2.** Simulated isotope distribution of caffeine ($\text{C}_8\text{H}_{10}\text{N}_4\text{O}_2$). The monoisotopic peak (all $^{12}$C, $^1$H, $^{14}$N, $^{16}$O) is the most intense. The nominal, monoisotopic, and average masses are labeled. (Image by Kermit Murray, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caffeine_mass.gif), public domain.)
+**Figure 2.** Simulated isotope distribution of caffeine ($\text{C}_8\text{H}_{10}\text{N}_4\text{O}_2$). The monoisotopic peak, which corresponds ions in which all carbon atoms are $^{12}\text{C}$, all hydrogen atoms are $^{1}\text{H}$, all nitrogen atoms are $^{14}\text{N}$, and all oxygen atoms are $^{16}\text{O}$, is the most intense. The nominal, monoisotopic, and average masses are labeled. (Image by Kermit Murray, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caffeine_mass.gif), public domain.)
 
 For large molecules, the situation is strikingly different. Consider a polystyrene oligomer with degree of polymerization $n = 40$, giving an approximate formula $\text{C}_{320}\text{H}_{322}$ and molecular mass $\sim$4,200 Da. With 320 carbon atoms each carrying a 1.1% probability of being $^{13}$C, the probability that *all* carbons are $^{12}$C is $(0.989)^{320} \approx 0.03$ — less than 3%. The most intense peak therefore shifts to higher mass and the monoisotopic peak may be barely detectable. Figure 3 illustrates this behavior using the peptide hormone glucagon as a representative large molecule; the same broadening and shift of the isotope envelope is observed for high-molecular-weight synthetic polymers.
 
@@ -121,15 +126,15 @@ For large molecules, the situation is strikingly different. Consider a polystyre
 
 This has a direct practical consequence. For large molecules — synthetic polymers, for example — measured at low resolving power, where the instrument cannot resolve individual isotope peaks, the measured peak center corresponds approximately to the **average mass**. For small molecules, or large molecules measured at high resolving power where individual peaks are resolved, the **monoisotopic mass** is reported.
 
-#### 1.2.3 The Relationship Between *m/z* and Neutral Mass
+#### 1.2.3 The Relationship Between *m*/*z* and Neutral Mass
 
 > **Learning objectives**
 >
-> **5.** Distinguish between the *m/z* value measured by the instrument and the neutral mass of the analyte, and perform the conversion between the two.
+> **5.** Distinguish between the *m*/*z* value measured by the instrument and the neutral mass of the analyte, and perform the conversion between the two.
 >
-> **8.** Calculate the neutral mass of an analyte from the *m/z* values of a multiply charged ESI ion series or from the *m/z* of a singly charged MALDI or EI ion.
+> **8.** Calculate the neutral mass of an analyte from the *m*/*z* values of a multiply charged ESI ion series or from the *m*/*z* of a singly charged MALDI or EI ion.
 
-The mass analyzer measures *m/z*, not the neutral mass of the analyte. To recover the neutral mass $M$, you must account for the charges added or removed during ionization. For a positive ion formed by adding $z$ protons:
+The mass analyzer measures *m*/*z*, not the neutral mass of the analyte. To recover the neutral mass $M$, you must account for the charges added or removed during ionization. For a positive ion formed by adding $z$ protons:
 
 $$\frac{m}{z} = \frac{M + z \cdot m_{\text{H}}}{z}$$
 
@@ -225,7 +230,7 @@ ESI is a **soft ionization** technique and is the dominant method in liquid chro
 | Primary ion type | $\text{M}^{+\bullet}$, fragment ions | $[\text{M+H}]^+$ | $[\text{M+nH}]^{n+}$ |
 | Charge states produced | Singly charged | Singly charged | Multiple |
 | Analyte state required | Vapor | Solid co-crystal | Solution |
-| Typical mass range | $<$1 kDa | Up to $\sim$500 kDa | Up to $\sim$100 kDa |
+| Typical mass range | <1 kDa | Up to 500 kDa | Up to MDa |
 | Common applications | GC-MS, volatile organics | Synthetic polymers, surfactants, pharmaceuticals, lipids | LC-MS, environmental contaminants, industrial chemicals, polymers |
 | Structural (fragment) information | Rich, without MS/MS | Minimal | Minimal without MS/MS |
 
@@ -237,9 +242,9 @@ ESI is a **soft ionization** technique and is the dominant method in liquid chro
 
 > **Learning objectives**
 >
-> **9.** Explain the operating principle of a quadrupole mass filter, including the roles of the RF and DC voltages in establishing a stability window that transmits a narrow range of *m/z* values.
+> **9.** Explain the operating principle of a quadrupole mass filter, including the roles of the RF and DC voltages in establishing a stability window that transmits a narrow range of *m*/*z* values.
 >
-> **10.** Explain the operating principle of a time-of-flight mass analyzer, including how differences in ion velocity after acceleration by a fixed potential result in the temporal separation of ions with different *m/z* values.
+> **10.** Explain the operating principle of a time-of-flight mass analyzer, including how differences in ion velocity after acceleration by a fixed potential result in the temporal separation of ions with different *m*/*z* values.
 >
 > **11.** Describe the operating principle of the Faraday cup, the discrete dynode electron multiplier, and the multichannel plate (MCP) detector, and explain why MCP detectors are preferred for time-of-flight instruments.
 
@@ -247,7 +252,7 @@ ESI is a **soft ionization** technique and is the dominant method in liquid chro
 
 A quadrupole mass filter consists of four parallel cylindrical rods arranged symmetrically around a central axis (Figure 7). Opposing rod pairs are connected electrically: one pair receives a voltage $+(U + V\cos\omega t)$ and the other receives $-(U + V\cos\omega t)$, where $U$ is a DC offset and $V\cos\omega t$ is a radiofrequency (RF) oscillation at angular frequency $\omega$ (typically in the MHz range).
 
-![Schematic diagram of a quadrupole mass analyzer showing four rods and ion trajectory](https://upload.wikimedia.org/wikipedia/commons/5/5b/Analizzatore_di_massa_a_quadrupolo.svg)
+![Schematic diagram of a quadrupole mass analyzer showing four rods and ion trajectory](https://upload.wikimedia.org/wikipedia/commons/d/de/Analizzatore_di_massa_a_quadrupolo.svg)
 
 **Figure 7.** Schematic of a quadrupole mass filter. Ions enter along the central axis. The combined DC and RF voltages create a dynamic field that transmits only a narrow *m/z* window; all other ions follow unstable trajectories, strike the rods, and are neutralized. ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Analizzatore_di_massa_a_quadrupolo.svg), CC BY-SA 3.0.)
 
@@ -317,7 +322,7 @@ where $\Delta(m/z)_{\text{FWHM}}$ is the full width of the peak at half its maxi
 >
 > This 14-fold difference has major analytical consequences: the quadrupole provides unit-mass resolution adequate for most small-molecule identification by nominal mass, while the TOF resolves peaks differing by 50 mDa — sufficient to determine molecular formulas by exact mass.
 
-The required resolving power depends on the analytical problem. For GC-MS of small volatile compounds that differ by many daltons, $R_p \sim 10^2$–$10^3$ is adequate. For environmental or industrial LC-MS where isobaric species — for example, structural isomers of a pesticide or polymer additive — may differ by only a few tens of millidaltons, $R_p \geq 10^4$ is needed. For large synthetic polymers measured at low resolving power, individual isotope peaks are unresolved and the measured peak center corresponds to the average mass.
+The required resolving power depends on the analytical problem. For GC-MS of small volatile compounds that differ by many daltons, $R_p \sim 10^2$–$10^3$ is adequate. In many applications of mass spectrometry, including environmental, and industrial sample analysis, candidate ions may differ by only a few tens of millidaltons, $R_p \geq 10^4$ is needed. For large synthetic polymers measured at low resolving power, individual isotope peaks are unresolved and the measured peak center corresponds to the average mass.
 
 #### 2.2.2 Mass Accuracy
 
@@ -325,13 +330,13 @@ Resolving power describes the *width* of a peak; **mass accuracy** describes how
 
 $$\boxed{\text{mass accuracy (ppm)} = \left\lvert \frac{(m/z)_{\text{measured}} - (m/z)_{\text{expected}}}{(m/z)_{\text{expected}}} \right\rvert \times 10^6}$$
 
-> **Worked Example 4 — Mass accuracy.** A TOF instrument measures the $[\text{M+H}]^+$ ion of atrazine (a widely used herbicide, $\text{C}_8\text{H}_{14}\text{ClN}_5$) at $m/z = 216.1023$. The expected monoisotopic *m/z$ is 216.1011. Calculate the mass accuracy in ppm.
+> **Worked Example 4 — Mass accuracy.** A TOF instrument measures the $[\text{M+H}]^+$ ion of atrazine (a widely used herbicide, $\text{C}_8\text{H}_{14}\text{ClN}_5$) at *m*/*z* = 216.1023$. The expected monoisotopic *m*/*z* is 216.1011. Calculate the mass accuracy in ppm.
 >
 > $$\text{mass accuracy} = \left\lvert \frac{216.1023 - 216.1011}{216.1011} \right\rvert \times 10^6 = \frac{0.0012}{216.1011} \times 10^6 \approx 5.6 \text{ ppm}$$
 >
 > This is a typical result for a well-calibrated TOF instrument and is sufficient to confirm the molecular formula of the analyte and distinguish it from interferents with the same nominal mass.
 
-High mass accuracy is essential for distinguishing analytes with the same nominal mass but different elemental compositions. The dipeptides in Table 3 provide a clear illustration: NE, EN, and DQ are **isobaric** — they share identical elemental compositions and cannot be distinguished by any instrument. DK has the same nominal mass as DQ but differs in elemental composition ($\text{CH}_4$ vs. $\text{O}$, a mass difference of 36 mDa). A quadrupole with $\sim$1000 ppm accuracy cannot distinguish DQ from DK; a TOF or Fourier transform instrument with $\leq$10 ppm accuracy can. Although these are biological molecules, the same logic applies directly to isobaric small molecules encountered in environmental and industrial analysis — for example, distinguishing structural isomers of pesticides or polymer additives that happen to share a nominal mass.
+High mass accuracy is essential for distinguishing analytes with the same nominal mass but different elemental compositions. The dipeptides in Table 3 provide a clear illustration: NE, EN, and DQ are **isobaric** — they share identical elemental compositions and cannot be distinguished by any instrument. DK has the same nominal mass as DQ but differs in elemental composition ($\text{CH}_4$ vs. $\text{O}$, a mass difference of 36 mDa). A quadrupole with roughly 1000 ppm accuracy cannot distinguish DQ from DK; a TOF or Fourier transform instrument with better than 10 ppm accuracy can. Although these are biological molecules, the same logic applies directly to isobaric small molecules encountered in environmental and industrial analysis — for example, distinguishing structural isomers of pesticides or polymer additives that happen to share a nominal mass.
 
 The structure of the dipeptide NE (Asn-Glu) is shown in Figure 9 to make the formula in Table 3 concrete; NE and DQ are true isobars that share identical elemental compositions and are therefore indistinguishable by mass alone.
 
@@ -343,11 +348,11 @@ The structure of the dipeptide NE (Asn-Glu) is shown in Figure 9 to make the for
 
 | Peptide | $[\text{M+H}]^+$ formula | Exact mass (Da) | $\Delta m$ from DQ |
 |:--------|:--------------------------|----------------:|:------------------:|
-| NQ      | $\text{C}_9\text{H}_{17}\text{N}_4\text{O}_5^+$ | 261.1194 | $-$1.0 Da |
+| NQ      | $\text{C}_9\text{H}_{17}\text{N}_4\text{O}_5^+$ | 261.1194 | -1.0 Da |
 | NE      | $\text{C}_9\text{H}_{16}\text{N}_3\text{O}_6^+$ | 262.1034 | 0 (isobar) |
 | EN      | $\text{C}_9\text{H}_{16}\text{N}_3\text{O}_6^+$ | 262.1034 | 0 (isobar) |
 | DQ      | $\text{C}_9\text{H}_{16}\text{N}_3\text{O}_6^+$ | 262.1034 | — |
-| DK      | $\text{C}_{10}\text{H}_{20}\text{N}_3\text{O}_5^+$ | 262.1398 | $+$36 mDa |
+| DK      | $\text{C}_{10}\text{H}_{20}\text{N}_3\text{O}_5^+$ | 262.1398 | +36 mDa |
 
 #### 2.2.3 Comparison of Mass Analyzers
 
@@ -364,8 +369,8 @@ A **scanning analyzer** (quadrupole filter, magnetic sector) transmits one *m/z*
 | Quadrupole filter             | Yes | No  | $10^2$–$10^3$ | $10^2$–$10^3$ |
 | Quadrupole ion trap           | Yes | Yes | $10^3$         | $10^2$         |
 | Time-of-flight                | No  | Yes | $10^4$         | 1–10           |
-| Magnetic sector               | Yes | No  | $10^4$–$10^5$  | $\sim$1        |
-| Fourier transform (FT-ICR / Orbitrap) | No | Yes | $10^5$–$10^6$ | $<$1 |
+| Magnetic sector               | Yes | No  | $10^4$–$10^5$  | ~1        |
+| Fourier transform (FT-ICR / Orbitrap) | No | Yes | $10^5$–$10^6$ | <1 |
 
 The quadrupole filter occupies one extreme of this table: low resolving power and modest mass accuracy, but robust, inexpensive, and fast. Fourier transform instruments occupy the other extreme: extraordinary resolving power and sub-ppm mass accuracy at the cost of greater size, expense, and slower acquisition. TOF instruments offer a practical middle ground and are increasingly common in environmental analysis, polymer characterization, and small-molecule identification.
 
@@ -433,3 +438,6 @@ In practice, MRM transitions are developed by infusing a pure analyte standard a
 The triple quadrupole achieves MS/MS by performing precursor selection, fragmentation, and product ion analysis in three physically *separate* regions of the instrument. This is **tandem-in-space**. The advantage is that all three operations occur simultaneously and continuously, enabling high duty cycles and excellent sensitivity in MRM mode. The limitation is that adding more stages of mass analysis requires additional physical hardware.
 
 An alternative is **tandem-in-time**, used in ion trap instruments (the quadrupole ion trap, the linear ion trap, and the Orbitrap with its associated linear trap). Here, all steps — ion accumulation, precursor isolation, fragmentation, and product ion analysis — occur in a temporal sequence within the *same* physical device. The advantage is flexibility: because no additional hardware is required for each stage, experiments with three or more stages of mass analysis (MS$^n$, $n \geq 3$) are readily implemented. The tradeoff is that each additional isolation step reduces the ion population available for detection, eventually limiting sensitivity for high-order MS$^n$ experiments.
+
+## Acknowledgements
+This documented was created with assistance from Claude 4.5 Sonnet.
