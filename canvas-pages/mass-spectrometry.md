@@ -102,7 +102,7 @@ Because atoms exist as mixtures of isotopes, "the mass" of a molecule is not a s
 > **Monoisotopic mass:**
 > $$m_{\text{mono}} = 12.000(11) + 1.00783(13) + 15.99491(5) = 132.000 + 13.102 + 79.975 = 225.077 \text{ Da}$$
 >
-> The monoisotopic mass is slightly *larger* than the nominal mass. This **mass defect** arises because nuclear binding energy reduces the effective mass of protons and neutrons below their free-particle values by slightly different amounts for different elements. For hydrogen-rich organic molecules, the net effect is a positive mass defect relative to the nominal mass.
+> Here, the monoisotopic mass is slightly *larger* than the nominal mass. This **mass defect** arises because nuclear binding energy reduces the effective mass of protons and neutrons below their free-particle values by slightly different amounts for different elements. For hydrogen-rich organic molecules, the net effect is a positive mass defect relative to the nominal mass.
 
 #### 1.2.2 Isotope Distributions
 

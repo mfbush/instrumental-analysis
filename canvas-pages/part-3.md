@@ -14,26 +14,25 @@
     - [Acquisition Modes and Tandem MS](#acquisition-modes-and-tandem-ms)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
-    - [Suggested Problems](#suggested-problems-1)
   - [Professional in the Field - Livia Eberlin](#professional-in-the-field---livia-eberlin)
 - [Introduction to Chemical Separations](#introduction-to-chemical-separations)
   - [Learning Objectives](#learning-objectives-2)
   - [In-Class Materials](#in-class-materials-2)
   - [Post-Class Materials](#post-class-materials-2)
-    - [Suggested Problems](#suggested-problems-2)
+    - [Suggested Problems](#suggested-problems-1)
   - [Professional in the Field - Prof. Michelle Khine](#professional-in-the-field---prof-michelle-khine)
 - [Gas Chromatography/Mass Spectrometry](#gas-chromatographymass-spectrometry)
   - [Learning Objectives](#learning-objectives-3)
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
-    - [Suggested Problems](#suggested-problems-3)
+    - [Suggested Problems](#suggested-problems-2)
   - [Professional in the Field](#professional-in-the-field)
   - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
 - [Liquid Chromatography / Mass Spectrometry](#liquid-chromatography--mass-spectrometry)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
-    - [Suggested Problems](#suggested-problems-4)
+    - [Suggested Problems](#suggested-problems-3)
   - [Professional in the Field](#professional-in-the-field-1)
 - [Exam #3](#exam-3)
   - [What to Expect](#what-to-expect)
@@ -56,16 +55,12 @@
 8. Calculate the neutral mass of an analyte from the *m*/*z* values of a multiply charged ESI ion series or from the m/z of a singly charged MALDI or EI ion.
 
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146079880)
 ### Post-Class Materials
-- 20A: Molecular Mass Spectra
-- 20B-1: Electron Ionization
-- 20B-4: Desorption Sources, excluding Fast-Atom Bombardment
-- 20B-5: Atomspheric Pressure Ionization Methods, only electrospray ionization
-- Notes on mass analyzers and detectors.
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md). Part 1.
 #### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md). Problems 1 and 2.
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md)
 ### Professional in the Field - Prof. Abraham Badu-Tawiah
 - [Prof. Abraham Badu-Tawiah](https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/), Ohio State University, focused on the early diagnosis of disease using mass spectrometry.
 - [Interview](http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2) in the *Journal of the American Society for Mass Spectrometry*.
@@ -97,10 +92,9 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 - [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
 ### Post-Class Materials
-- Notes on mass analyzers and detectors.
-#### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md). Part 2.#### Suggested Problems
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md). Problems 3 and 4.
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md)
 ### Professional in the Field - Livia Eberlin
 - [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
 - [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
