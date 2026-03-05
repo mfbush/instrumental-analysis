@@ -1,4 +1,5 @@
 # Gas Chromatography/Mass Spectrometry
+Prof. Matthew Bush, University of Washington
 
 ## Learning Objectives
 *At the conclusion of in-class and outside learning, participants will be able to:*
