@@ -128,7 +128,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Describe the process of using a spectral library for qualitative applications of GC-MS.
 - Evaluate the advantages, limitations, and appropriate applications of GC-MS compared to other analytical techniques.
 ### In-Class Materials
-- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146568108)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146630533)
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/gcms.md)
 - [Instruments for Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.02%3A_Instruments_for_Gas-Liquid_Chromatography)
