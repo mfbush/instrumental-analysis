@@ -5,7 +5,7 @@
     - [Ionization Sources](#ionization-sources)
   - [In-Class Materials](#in-class-materials)
   - [Post-Class Materials](#post-class-materials)
-    - [Suggested Problems](#suggested-problems)
+  - [Suggested Problems](#suggested-problems)
   - [Professional in the Field - Prof. Abraham Badu-Tawiah](#professional-in-the-field---prof-abraham-badu-tawiah)
 - [How Mass Spectrometers Work and What Experiments They Enable](#how-mass-spectrometers-work-and-what-experiments-they-enable)
   - [Learning Objectives](#learning-objectives-1)
@@ -14,7 +14,7 @@
     - [Acquisition Modes and Tandem MS](#acquisition-modes-and-tandem-ms)
   - [In-Class Materials](#in-class-materials-1)
   - [Post-Class Materials](#post-class-materials-1)
-    - [Suggested Problems](#suggested-problems-1)
+  - [Suggested Problems](#suggested-problems-1)
   - [Professional in the Field - Livia Eberlin](#professional-in-the-field---livia-eberlin)
 - [Introduction to Chemical Separations](#introduction-to-chemical-separations)
   - [Learning Objectives](#learning-objectives-2)
@@ -56,12 +56,12 @@
 8. Calculate the neutral mass of an analyte from the *m*/*z* values of a multiply charged ESI ion series or from the m/z of a singly charged MALDI or EI ion.
 
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146079880)
 ### Post-Class Materials
-- [Mass Spectrometry - Part 1](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md#part-1--what-mass-spectrometry-measures-and-how-ions-are-made)
-#### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md) - Part 1.
+### Suggested Problems
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md) 1 and 2.
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry-solutions.md)
 ### Professional in the Field - Prof. Abraham Badu-Tawiah
 - [Prof. Abraham Badu-Tawiah](https://research.cbc.osu.edu/badu-tawiah.1/people/abraham-badu-tawiah/), Ohio State University, focused on the early diagnosis of disease using mass spectrometry.
 - [Interview](http://www.asms.org/docs/default-source/jasms/faces-of-ms_april-2018.pdf?sfvrsn=2) in the *Journal of the American Society for Mass Spectrometry*.
@@ -93,10 +93,10 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 - [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
 ### Post-Class Materials
-- [Mass Spectrometry - Part 2](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md#part-2--how-mass-spectrometers-work-and-what-experiments-they-enable)
-#### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md) - Part 2.
+### Suggested Problems 
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md) 3 and 4.
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry-solutions.md)
 ### Professional in the Field - Livia Eberlin
 - [Prof. Livia Schiavinato Eberlin](https://www.bcm.edu/people-search/livia-eberlin-20756), Baylor College of Medicine, develops and applies "development and application of "novel mass spectrometry technologies in health-related research, with a particular focus on disease detection and diagnosis to improve patient care and clinical outcomes."
 - [Short research profile](https://theanalyticalscientist.com/business-education/leading-by-example)
@@ -110,11 +110,12 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Using principles from chromatography and general chemistry, assign the key features of a chromatogram.
 - Determine values for retention time, void time, retention factor, selectivity factor, and resolution from a chromatogram.
 ### In-Class Materials
-- [notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/chromatography-introduction.ipynb)
+- [Activity](https://canvas.uw.edu/courses/1861822/files/146428427)
 ### Post-Class Materials
+- [A General Description of Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/26%3A_Introduction_to_Chromatographic_Separations/26.01%3A_A_General_Description_of_Chromatography)
+- [Optimization and Column Performance](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/26%3A_Introduction_to_Chromatographic_Separations/26.04%3A_Optimization_and_Column_Performance): Column Resolution
 #### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- Complete In-Class Activity
 ### Professional in the Field - Prof. Michelle Khine
 - [Prof. Michelle Khine](https://engineering.uci.edu/users/michelle-khine), University of California, Irvine, develops "microfabricated polymeric devices for cellular manipulation and analyses." She also "spun out a company, Fluxion Biosciences (San Francisco), based on her dissertation work of single-cell electroporation.
 - [Profile in Forbes](https://www.forbes.com/sites/sallypercy/2018/03/22/scientist-and-innovator-dr-michelle-khine-growing-up-nobody-thought-i-was-smart/?sh=b35ef1164eed)
@@ -128,11 +129,14 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Describe the process of using a spectral library for qualitative applications of GC-MS.
 - Evaluate the advantages, limitations, and appropriate applications of GC-MS compared to other analytical techniques.
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/gcms.ipynb)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146568108)
 ### Post-Class Materials
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/gcms.md)
+- [Instruments for Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.02%3A_Instruments_for_Gas-Liquid_Chromatography)
+- [Applications of Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.04%3A_Applications_of_Gas-Liquid_Chromatography): Quantitative Applications, Quantitative Calculations
 #### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
+- Suggested Problems
+- Solutions to Suggested Problems
 ### Professional in the Field
 ### Professional in the Field - Prof. Isiah Warner
 - [Prof. Isiah Warner](https://faculty.lsu.edu/iwarner/), Louisiana State University (and UW Chemistry Alumnus!) 
