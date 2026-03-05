@@ -88,7 +88,6 @@
 17. Explain why MRM is widely used for targeted quantitation in complex matrices, and describe the role of the precursor and product ion selections in providing specificity.
 Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time (e.g., quadrupole ion trap) approaches to MS/MS, and identify one advantage of each.
 
-
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 - [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
@@ -135,8 +134,8 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - [Instruments for Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.02%3A_Instruments_for_Gas-Liquid_Chromatography)
 - [Applications of Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.04%3A_Applications_of_Gas-Liquid_Chromatography): Quantitative Applications, Quantitative Calculations
 #### Suggested Problems
-- Suggested Problems
-- Solutions to Suggested Problems
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-gc-ms-solutions.md)
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-gc-ms.md)
 ### Professional in the Field
 ### Professional in the Field - Prof. Isiah Warner
 - [Prof. Isiah Warner](https://faculty.lsu.edu/iwarner/), Louisiana State University (and UW Chemistry Alumnus!) 
