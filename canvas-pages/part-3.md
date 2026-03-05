@@ -58,11 +58,7 @@
 ### In-Class Materials
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 ### Post-Class Materials
-- 20A: Molecular Mass Spectra
-- 20B-1: Electron Ionization
-- 20B-4: Desorption Sources, excluding Fast-Atom Bombardment
-- 20B-5: Atomspheric Pressure Ionization Methods, only electrospray ionization
-- Notes on mass analyzers and detectors.
+- [Mass Spectrometry - Part 1](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md#part-1--what-mass-spectrometry-measures-and-how-ions-are-made)
 #### Suggested Problems
 - Suggest Problems
 - Solutions to Suggest Problems
@@ -97,7 +93,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 - [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
 ### Post-Class Materials
-- Notes on mass analyzers and detectors.
+- [Mass Spectrometry - Part 2](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md#part-2--how-mass-spectrometers-work-and-what-experiments-they-enable)
 #### Suggested Problems
 - Suggest Problems
 - Solutions to Suggest Problems
