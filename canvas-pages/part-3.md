@@ -153,8 +153,8 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/lc-ms.md)
 #### Suggested Problems
-- Suggested Problems
-- Solutions to Suggested Problems
+- [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-lc-ms.md)
+- [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-lc-ms-solutions.md)
 #### Professional in the Field - Prof. Erin Baker
 - [Prof. Erin Baker](https://chem.unc.edu/faculty/baker-erin/), University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.
 - [Interview](https://youtu.be/Gm363wP1Zgs?si=OKYsj_iTEfN7TSkE) 
