@@ -27,14 +27,13 @@
   - [In-Class Materials](#in-class-materials-3)
   - [Post-Class Materials](#post-class-materials-3)
     - [Suggested Problems](#suggested-problems-3)
-  - [Professional in the Field](#professional-in-the-field)
-  - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
+    - [Professional in the Field - Prof. Isiah Warner](#professional-in-the-field---prof-isiah-warner)
 - [Liquid Chromatography / Mass Spectrometry](#liquid-chromatography--mass-spectrometry)
   - [Learning Objectives](#learning-objectives-4)
   - [In-Class Materials](#in-class-materials-4)
   - [Post-Class Materials](#post-class-materials-4)
     - [Suggested Problems](#suggested-problems-4)
-  - [Professional in the Field](#professional-in-the-field-1)
+    - [Professional in the Field - Prof. Erin Baker](#professional-in-the-field---prof-erin-baker)
 - [Exam #3](#exam-3)
   - [What to Expect](#what-to-expect)
   - [What to Bring to the Exam](#what-to-bring-to-the-exam)
@@ -128,7 +127,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Describe the process of using a spectral library for qualitative applications of GC-MS.
 - Evaluate the advantages, limitations, and appropriate applications of GC-MS compared to other analytical techniques.
 ### In-Class Materials
-- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146630533)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146650209)
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/gcms.md)
 - [Instruments for Gas Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/27%3A_Gas_Chromatography/27.02%3A_Instruments_for_Gas-Liquid_Chromatography)
@@ -136,8 +135,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 #### Suggested Problems
 - [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-gc-ms-solutions.md)
 - [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-gc-ms.md)
-### Professional in the Field
-### Professional in the Field - Prof. Isiah Warner
+#### Professional in the Field - Prof. Isiah Warner
 - [Prof. Isiah Warner](https://faculty.lsu.edu/iwarner/), Louisiana State University (and UW Chemistry Alumnus!) 
 - [ACS Video Profile](https://youtu.be/AFUmN__aHCE?si=t4vDgVLy2NZ8np8w)
 
@@ -150,13 +148,14 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Describe the process of using reaction monitoring and data-dependent acquisition for LC-MS.
 - Evaluate the advantages, limitations, and appropriate applications of LC-MS compared to other analytical techniques.
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/lc-ms.ipynb)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146650567)
 - [Activity](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=131886825) | [Solutions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131896570)
 ### Post-Class Materials
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/lc-ms.md)
 #### Suggested Problems
-- Suggest Problems
-- Solutions to Suggest Problems
-### Professional in the Field
+- Suggested Problems
+- Solutions to Suggested Problems
+#### Professional in the Field - Prof. Erin Baker
 - [Prof. Erin Baker](https://chem.unc.edu/faculty/baker-erin/), University of North Carolina, develops measurements for xenobiotic and endogenous metabolite small molecules.
 - [Interview](https://youtu.be/Gm363wP1Zgs?si=OKYsj_iTEfN7TSkE) 
 
