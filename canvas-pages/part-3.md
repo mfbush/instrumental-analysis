@@ -57,7 +57,7 @@
 ### In-Class Materials
 - [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146079880)
 ### Post-Class Materials
-- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md) - Part 1.
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/mass-spectrometry.md) Part 1.
 ### Suggested Problems
 - [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md) 1 and 2.
 - [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry-solutions.md)
@@ -91,7 +91,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
 - [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
 ### Post-Class Materials
-- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/canvas-pages/mass-spectrometry.md) - Part 2.
+- [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/mass-spectrometry.md) Part 2.
 ### Suggested Problems 
 - [Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry.md) 3 and 4.
 - [Solutions to Suggested Problems](https://github.com/mfbush/instrumental-analysis/blob/main/suggested-problems/sp-mass-spectrometry-solutions.md)
