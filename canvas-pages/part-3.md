@@ -109,6 +109,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Determine values for retention time, void time, retention factor, selectivity factor, and resolution from a chromatogram.
 ### In-Class Materials
 - [Activity](https://canvas.uw.edu/courses/1861822/files/146428427)
+- [Post-Activity Guide](https://github.com/mfbush/instrumental-analysis/blob/main/activities/activity-chromatography-solutions.md)
 ### Post-Class Materials
 - [A General Description of Chromatography](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/26%3A_Introduction_to_Chromatographic_Separations/26.01%3A_A_General_Description_of_Chromatography)
 - [Optimization and Column Performance](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/26%3A_Introduction_to_Chromatographic_Separations/26.04%3A_Optimization_and_Column_Performance): Column Resolution
