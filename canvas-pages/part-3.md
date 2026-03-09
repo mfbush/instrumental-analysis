@@ -150,7 +150,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Evaluate the advantages, limitations, and appropriate applications of LC-MS compared to other analytical techniques.
 ### In-Class Materials
 - [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146650567)
-- [Activity](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=131886825) | [Solutions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131896570)
+- [Activity](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=144790156)
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/lc-ms.md)
 #### Suggested Problems
