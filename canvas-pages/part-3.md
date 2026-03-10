@@ -88,8 +88,7 @@
 Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time (e.g., quadrupole ion trap) approaches to MS/MS, and identify one advantage of each.
 
 ### In-Class Materials
-- [Notebook](https://github.com/mfbush/instrumental-analysis/blob/main/notebooks/mass-spectrometry.ipynb)
-- [Handout with representative spectra and questions](https://canvas.uw.edu/courses/1778379/files/folder/resources-in-class?preview=131294362)
+- [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146922691)
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/mass-spectrometry.md) Part 2.
 ### Suggested Problems 
@@ -150,7 +149,7 @@ Distinguish between tandem-in-space (e.g., triple quadrupole) and tandem-in-time
 - Evaluate the advantages, limitations, and appropriate applications of LC-MS compared to other analytical techniques.
 ### In-Class Materials
 - [Slides](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=146650567)
-- [Activity](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=144790156)
+- [Activity](https://canvas.uw.edu/courses/1861822/files/folder/resources-in-class?preview=144790156) | [Solutions to LC-MS Activity](https://canvas.uw.edu/courses/1861822/files/144790157?wrap=1)
 ### Post-Class Materials
 - [Notes](https://github.com/mfbush/instrumental-analysis/blob/main/docs/lc-ms.md)
 #### Suggested Problems
